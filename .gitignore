@@ -1,0 +1,23 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# assets data
+Abyss Horizon/
+Arpeggio of Blue Steel/
+Azur Lane/
+Battleship Girl/
+Black Surge Nights/
+Blue Oath/
+Deep Sea Desire/
+Guardian Project/
+Kantai Collection/
+Lane Girls/
+Moe Moe World War II/
+Victory Belles/
+Warship Girls R/

@@ -1,0 +1,2947 @@
+[
+	{
+		"name": "Hood",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/6/60/Hood.png"
+	},
+	{
+		"name": "Hood",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/b/b4/Hood_D.png"
+	},
+	{
+		"name": "Hood",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/e/e3/Hood_M1.png"
+	},
+	{
+		"name": "Hood",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/8/8b/Hood_M1D.png"
+	},
+	{
+		"name": "Fuso",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/5/59/Fuso.png"
+	},
+	{
+		"name": "Fuso",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/f/f2/Fuso_D.png"
+	},
+	{
+		"name": "Yamashiro",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/2/2c/Yamashiro.png"
+	},
+	{
+		"name": "Yamashiro",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/a/a6/Yamashiro_damaged.png"
+	},
+	{
+		"name": "Ise",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/2/2c/Ise.png"
+	},
+	{
+		"name": "Ise",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/a/a0/Ise_D.png"
+	},
+	{
+		"name": "Ise",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/6/6c/Ise_M1.png"
+	},
+	{
+		"name": "Ise",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/b/ba/Ise_M1D.png"
+	},
+	{
+		"name": "Hyuga",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/7/74/Hyuga.png"
+	},
+	{
+		"name": "Hyuga",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/5/50/Hyuga_D.png"
+	},
+	{
+		"name": "Hyuga",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/0/00/Hyuga_M1.png"
+	},
+	{
+		"name": "Hyuga",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/4/46/Hyuga_M1D.png"
+	},
+	{
+		"name": "Bismarck",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/3/3c/Bismarck.png"
+	},
+	{
+		"name": "Bismarck",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/8/8d/Bismarck_damaged.png"
+	},
+	{
+		"name": "Bismarck",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/7/7a/Bismarck_%28r%29.png"
+	},
+	{
+		"name": "Bismarck",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/9/99/Bismarck_%28r%29_damaged.png"
+	},
+	{
+		"name": "Tirpitz",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/3/38/Tirpitz.png"
+	},
+	{
+		"name": "Tirpitz",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/5/55/Tirpitz_D.png"
+	},
+	{
+		"name": "Tirpitz",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/4/4a/Tirpitz_M1.png"
+	},
+	{
+		"name": "Tirpitz",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/6/68/Tirpitz_M1D.png"
+	},
+	{
+		"name": "Tirpitz",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/f/f1/Tirpitz_1.png"
+	},
+	{
+		"name": "Tirpitz",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/b/b7/Tirpitz_1D.png"
+	},
+	{
+		"name": "Nelson",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/0/03/Nelson.png"
+	},
+	{
+		"name": "Nelson",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/3/39/Nelson_D.png"
+	},
+	{
+		"name": "Nelson",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/4/47/Nelson_M1.png"
+	},
+	{
+		"name": "Nelson",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/8/88/Nelson_M1D.png"
+	},
+	{
+		"name": "Rodney",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/e/e3/Rodney.png"
+	},
+	{
+		"name": "Rodney",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/6/64/Rodney_D.png"
+	},
+	{
+		"name": "Rodney",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/0/04/Rodney_M1.png"
+	},
+	{
+		"name": "Rodney",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/a/a8/Rodney_M1D.png"
+	},
+	{
+		"name": "Prince of Wales",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/f/f1/Prince_of_Wales.png"
+	},
+	{
+		"name": "Prince of Wales",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/c/ce/Prince_of_Wales_D.png"
+	},
+	{
+		"name": "Prince of Wales",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/4/47/Prince_of_Wales_M1.png"
+	},
+	{
+		"name": "Prince of Wales",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/5/5c/Prince_of_Wales_M1D.png"
+	},
+	{
+		"name": "Nevada",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/1/11/Nevada.png"
+	},
+	{
+		"name": "Nevada",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/0/05/Nevada_D.png"
+	},
+	{
+		"name": "Nevada",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/5/5f/Nevada_M1.png"
+	},
+	{
+		"name": "Nevada",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/2/27/Nevada_M1D.png"
+	},
+	{
+		"name": "Oklahoma",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/1/14/Oklahoma.png"
+	},
+	{
+		"name": "Oklahoma",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/9/9b/Oklahoma_D.png"
+	},
+	{
+		"name": "Oklahoma",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/3/35/Oklahoma_M1.png"
+	},
+	{
+		"name": "Oklahoma",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/7/75/Oklahoma_M1D.png"
+	},
+	{
+		"name": "Andrea Doria",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/d/db/Andrea_Doria.png"
+	},
+	{
+		"name": "Andrea Doria",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/8/8b/Andrea_Doria_D.png"
+	},
+	{
+		"name": "Andrea Doria",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/e/ec/Andrea_Doria_M1.png"
+	},
+	{
+		"name": "Andrea Doria",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/6/63/Andrea_Doria_M1D.png"
+	},
+	{
+		"name": "Kongou",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/6/68/Kongou.png"
+	},
+	{
+		"name": "Kongou",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/c/c5/Kongou_D.png"
+	},
+	{
+		"name": "Hiei",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/a/ac/Hiei.png"
+	},
+	{
+		"name": "Hiei",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/2/27/Hiei_D.png"
+	},
+	{
+		"name": "Haruna",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/a/a6/Haruna.png"
+	},
+	{
+		"name": "Haruna",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/6/66/Haruna_D.png"
+	},
+	{
+		"name": "Kirishima",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/f/f3/Kirishima.png"
+	},
+	{
+		"name": "Kirishima",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/0/01/Kirishima_D.png"
+	},
+	{
+		"name": "Renown",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/c/cf/Renown.png"
+	},
+	{
+		"name": "Renown",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/1/13/Renown_D.png"
+	},
+	{
+		"name": "Renown",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/b/be/Renown_M1.png"
+	},
+	{
+		"name": "Renown",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/1/1b/Renown_M1D.png"
+	},
+	{
+		"name": "Repulse",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/9/91/Repulse.png"
+	},
+	{
+		"name": "Repulse",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/0/0f/Repulse_D.png"
+	},
+	{
+		"name": "Repulse",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/0/07/Repulse_M1.png"
+	},
+	{
+		"name": "Repulse",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/4/49/Repulse_M1D.png"
+	},
+	{
+		"name": "Alaska",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/9/9e/Alaska.png"
+	},
+	{
+		"name": "Alaska",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/8/83/Alaska_D.png"
+	},
+	{
+		"name": "Guam",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/e/e9/Guam.png"
+	},
+	{
+		"name": "Akagi",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/0/06/Akagi.png"
+	},
+	{
+		"name": "Akagi",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/d/d4/Akagi_D.png"
+	},
+	{
+		"name": "Akagi",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/a/a5/Akagi_M1.png"
+	},
+	{
+		"name": "Akagi",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/2/2d/Akagi_M1D.png"
+	},
+	{
+		"name": "Kaga",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/9/9a/Kaga.png"
+	},
+	{
+		"name": "Shoho",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/9/9d/Shoho.png"
+	},
+	{
+		"name": "Shoho",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/2/24/Shoho_D.png"
+	},
+	{
+		"name": "Zuiho",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/2/27/Zuiho.png"
+	},
+	{
+		"name": "Zuiho",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/3/30/Zuiho_D.png"
+	},
+	{
+		"name": "Argus",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/2/26/Argus.png"
+	},
+	{
+		"name": "Argus",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/8/82/Argus_D.png"
+	},
+	{
+		"name": "Argus",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/f/f2/Argus_M1.png"
+	},
+	{
+		"name": "Argus",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/3/36/Argus_M1D.png"
+	},
+	{
+		"name": "Langley",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/1/19/Langley.png"
+	},
+	{
+		"name": "Langley",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/1/17/Langley_D.png"
+	},
+	{
+		"name": "Langley",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/7/77/Langley_M1.png"
+	},
+	{
+		"name": "Langley",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/2/2d/Langley_M1D.png"
+	},
+	{
+		"name": "Ranger",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/e/e9/Ranger.png"
+	},
+	{
+		"name": "Ranger",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/4/42/Ranger_D.png"
+	},
+	{
+		"name": "Ranger",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/7/75/Ranger_M1.png"
+	},
+	{
+		"name": "Ranger",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/5/58/Ranger_M1D.png"
+	},
+	{
+		"name": "Lexington",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/4/41/Lexington.png"
+	},
+	{
+		"name": "Lexington",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/d/d0/Lexington_D.png"
+	},
+	{
+		"name": "Lexington",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/e/ec/Lexington_M1.png"
+	},
+	{
+		"name": "Lexington",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/7/7c/Lexington_M1D.png"
+	},
+	{
+		"name": "Saratoga",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/c/c9/Saratoga.png"
+	},
+	{
+		"name": "Saratoga",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/b/b0/Saratoga_damaged.png"
+	},
+	{
+		"name": "Saratoga",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/2/2d/Saratoga_%28r%29.png"
+	},
+	{
+		"name": "Saratoga",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/f/f8/Saratoga_%28r%29_damaged.png"
+	},
+	{
+		"name": "Hornet",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/7/72/Hornet.png"
+	},
+	{
+		"name": "Hornet",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/9/95/Hornet_D.png"
+	},
+	{
+		"name": "Takao",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/2/28/Takao.png"
+	},
+	{
+		"name": "Takao",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/e/e7/Takao_D.png"
+	},
+	{
+		"name": "Takao",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/7/75/Takao_M1.png"
+	},
+	{
+		"name": "Takao",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/2/23/Takao_M1D.png"
+	},
+	{
+		"name": "Atago",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/6/65/Atago.png"
+	},
+	{
+		"name": "Atago",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/0/03/Atago_D.png"
+	},
+	{
+		"name": "Atago",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/7/79/Atago_M1.png"
+	},
+	{
+		"name": "Atago",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/a/a9/Atago_M1D.png"
+	},
+	{
+		"name": "Maya",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/0/09/Maya.png"
+	},
+	{
+		"name": "Maya",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/b/b2/Maya_D.png"
+	},
+	{
+		"name": "Maya",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/e/ea/Maya_M1.png"
+	},
+	{
+		"name": "Maya",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/e/e6/Maya_M1D.png"
+	},
+	{
+		"name": "Chokai",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/1/14/Chokai.png"
+	},
+	{
+		"name": "Chokai",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/f/f7/Chokai_D.png"
+	},
+	{
+		"name": "Chokai",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/5/52/Chokai_M1.png"
+	},
+	{
+		"name": "Chokai",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/3/3e/Chokai_M1D.png"
+	},
+	{
+		"name": "Admiral Hipper",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/3/30/Admiral_Hipper.png"
+	},
+	{
+		"name": "Admiral Hipper",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/8/84/Admiral_Hipper_damaged.png"
+	},
+	{
+		"name": "Admiral Hipper",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/0/03/Hipper_mod_I.png"
+	},
+	{
+		"name": "Admiral Hipper",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/4/44/Hipper_mod_damaged.png"
+	},
+	{
+		"name": "Bl%C3%BCcher",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/9/96/Bl%C3%BCcher.png"
+	},
+	{
+		"name": "Bl%C3%BCcher",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/5/5d/Bl%C3%BCcher_damaged.png"
+	},
+	{
+		"name": "Bl%C3%BCcher",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/a/ab/Bl%C3%BCcher_%28r%29.png"
+	},
+	{
+		"name": "Bl%C3%BCcher",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/a/a1/Bl%C3%BCcher_%28r%29_damaged.png"
+	},
+	{
+		"name": "Prinz Eugen",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/6/67/Prinz_Eugen.png"
+	},
+	{
+		"name": "Prinz Eugen",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/9/92/Prinz_Eugen_D.png"
+	},
+	{
+		"name": "Prinz Eugen",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/4/43/Prinz_Eugen_M1.png"
+	},
+	{
+		"name": "Prinz Eugen",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/9/98/Prinz_Eugen_M1D.png"
+	},
+	{
+		"name": "Wichita",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/6/65/Wichita.png"
+	},
+	{
+		"name": "Wichita",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/1/10/Wichita_D.png"
+	},
+	{
+		"name": "Wichita",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/f/fe/Wichita_M1.png"
+	},
+	{
+		"name": "Wichita",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/2/26/Wichita_M1D.png"
+	},
+	{
+		"name": "Quincy",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/5/56/Quincy.png"
+	},
+	{
+		"name": "Quincy",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/6/6b/Quincy_D.png"
+	},
+	{
+		"name": "Quincy",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/b/be/Quincy_M1.png"
+	},
+	{
+		"name": "Quincy",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/a/a2/Quincy_M1D.png"
+	},
+	{
+		"name": "Tenryu",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/0/0d/Tenryu.png"
+	},
+	{
+		"name": "Tenryu",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/3/39/Tenryu_D.png"
+	},
+	{
+		"name": "Tenryu",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/0/00/Tenryu_M1.png"
+	},
+	{
+		"name": "Tenryu",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/6/6d/Tenryu_M1D.png"
+	},
+	{
+		"name": "Tatsuta",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/9/97/Tatsuta.png"
+	},
+	{
+		"name": "Tatsuta",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/9/9a/Tatsuta_D.png"
+	},
+	{
+		"name": "Tatsuta",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/3/3e/Tatsuta_M1.png"
+	},
+	{
+		"name": "Tatsuta",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/5/58/Tatsuta_M1D.png"
+	},
+	{
+		"name": "K%C3%B6nigsberg",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/0/0f/K%C3%B6nigsberg.png"
+	},
+	{
+		"name": "K%C3%B6nigsberg",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/5/55/K%C3%B6nigsberg_D.png"
+	},
+	{
+		"name": "K%C3%B6nigsberg",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/0/0b/K%C3%B6nigsberg_M1.png"
+	},
+	{
+		"name": "K%C3%B6nigsberg",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/9/99/K%C3%B6nigsberg_M1D.png"
+	},
+	{
+		"name": "Karlsruhe",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/1/17/Karlsruhe.png"
+	},
+	{
+		"name": "Karlsruhe",
+		"skin": "damaged",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/6/61/Karlsruhe_damaged.png"
+	},
+	{
+		"name": "Karlsruhe",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/4/45/Karlsruhe_M1.png"
+	},
+	{
+		"name": "Karlsruhe",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/a/a5/Karlsruhe_M1D.png"
+	},
+	{
+		"name": "K%C3%B6ln",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/2/27/K%C3%B6ln.png"
+	},
+	{
+		"name": "K%C3%B6ln",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/e/ed/K%C3%B6ln_damaged.png"
+	},
+	{
+		"name": "K%C3%B6ln",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/4/48/K%C3%B6ln_M1.png"
+	},
+	{
+		"name": "K%C3%B6ln",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/7/72/K%C3%B6ln_M1D.png"
+	},
+	{
+		"name": "Sirius",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/1/18/Sirius.png"
+	},
+	{
+		"name": "Sirius",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/f/f5/Sirius_D.png"
+	},
+	{
+		"name": "Arethusa",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/2/24/Arethusa.png"
+	},
+	{
+		"name": "Arethusa",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/2/2a/Arethusa_D.png"
+	},
+	{
+		"name": "Galatea",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/5/51/Galatea.png"
+	},
+	{
+		"name": "Galatea",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/1/14/Galatea_D.png"
+	},
+	{
+		"name": "Penelope",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/8/8d/Penelope.png"
+	},
+	{
+		"name": "Penelope",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/f/f0/Penelope_D.png"
+	},
+	{
+		"name": "Aurora",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/8/89/Aurora.png"
+	},
+	{
+		"name": "Aurora",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/7/72/Aurora_D.png"
+	},
+	{
+		"name": "Aurora",
+		"skin": "Chongqing",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/7/75/Chongqing.png"
+	},
+	{
+		"name": "Aurora",
+		"skin": "Chongqing_D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/3/35/Chongqing_D.png"
+	},
+	{
+		"name": "Omaha",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/8/83/Omaha.png"
+	},
+	{
+		"name": "Omaha",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/6/65/Omaha_D.png"
+	},
+	{
+		"name": "Omaha",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/a/a4/Omaha_M1.png"
+	},
+	{
+		"name": "Omaha",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/4/42/Omaha_M1D.png"
+	},
+	{
+		"name": "Atlanta",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/9/98/Atlanta.png"
+	},
+	{
+		"name": "Atlanta",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/f/f5/Atlanta_D.png"
+	},
+	{
+		"name": "Atlanta",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/d/dc/Atlanta_M1.png"
+	},
+	{
+		"name": "Atlanta",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/d/d0/Atlanta_M1D.png"
+	},
+	{
+		"name": "Juneau",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/a/ac/Juneau.png"
+	},
+	{
+		"name": "Juneau",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/f/ff/Juneau_D.png"
+	},
+	{
+		"name": "Brooklyn",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/1/1d/Brooklyn.png"
+	},
+	{
+		"name": "Brooklyn",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/8/81/Brooklyn_D.png"
+	},
+	{
+		"name": "Brooklyn",
+		"skin": "O'Higgins",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/3/34/O%27Higgins.png"
+	},
+	{
+		"name": "Brooklyn",
+		"skin": "O'Higgins_D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/f/fb/O%27Higgins_D.png"
+	},
+	{
+		"name": "Helena",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/d/db/Helena.png"
+	},
+	{
+		"name": "Helena",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/5/5e/Helena_D.png"
+	},
+	{
+		"name": "Helena",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/7/71/Helena_M1.png"
+	},
+	{
+		"name": "Helena",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/1/13/Helena_M1D.png"
+	},
+	{
+		"name": "Ninghai",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/b/bb/Ninghai.png"
+	},
+	{
+		"name": "Ninghai",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/3/31/Ninghai_damaged.png"
+	},
+	{
+		"name": "Ninghai",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/f/f6/Ninghai_%28r%29.png"
+	},
+	{
+		"name": "Ninghai",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/a/ad/Ninghai_%28r%29_damaged.png"
+	},
+	{
+		"name": "Pinghai",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/b/bc/Pinghai.png"
+	},
+	{
+		"name": "Pinghai",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/e/ef/Pinghai_damaged.png"
+	},
+	{
+		"name": "Pinghai",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/d/d5/Pinghai_%28r%29.png"
+	},
+	{
+		"name": "Pinghai",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/9/9b/Pinghai_%28r%29_damaged.png"
+	},
+	{
+		"name": "Roberts",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/b/b9/Roberts.png"
+	},
+	{
+		"name": "Roberts",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/b/b3/Roberts_D.png"
+	},
+	{
+		"name": "Roberts",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/6/6b/Roberts_M1.png"
+	},
+	{
+		"name": "Roberts",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/e/e5/Roberts_M1D.png"
+	},
+	{
+		"name": "Abercrombie",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/2/2c/Abercrombie.png"
+	},
+	{
+		"name": "Abercrombie",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/a/a4/Abercrombie_D.png"
+	},
+	{
+		"name": "Abercrombie",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/6/6e/Abercrombie_M1.png"
+	},
+	{
+		"name": "Abercrombie",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/5/53/Abercrombie_M1D.png"
+	},
+	{
+		"name": "Fubuki",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/c/cd/Fubuki.png"
+	},
+	{
+		"name": "Fubuki",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/b/be/Fubuki_D.png"
+	},
+	{
+		"name": "Fubuki",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/6/6b/Fubuki_M1.png"
+	},
+	{
+		"name": "Fubuki",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/1/12/Fubuki_M1D.png"
+	},
+	{
+		"name": "Shirayuki",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/a/a1/Shirayuki.png"
+	},
+	{
+		"name": "Shirayuki",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/2/26/Shirayuki_M1.png"
+	},
+	{
+		"name": "Shirayuki",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/9/9b/Shirayuki_M1D.png"
+	},
+	{
+		"name": "Hatsuyuki",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/9/9b/Hatsuyuki.png"
+	},
+	{
+		"name": "Hatsuyuki",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/7/70/Hatsuyuki_M1.png"
+	},
+	{
+		"name": "Hatsuyuki",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/e/e7/Hatsuyuki_M1D.png"
+	},
+	{
+		"name": "Hibiki",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/b/bc/Hibiki.png"
+	},
+	{
+		"name": "Hibiki",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/d/d0/Hibiki_damaged.png"
+	},
+	{
+		"name": "Hibiki",
+		"skin": "Verniy",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/6/69/Verniy.png"
+	},
+	{
+		"name": "Hibiki",
+		"skin": "Verniy_D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/4/41/Verniy_damaged.png"
+	},
+	{
+		"name": "Z24",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/4/48/Z24.png"
+	},
+	{
+		"name": "Z24",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/2/21/Z24_damaged.png"
+	},
+	{
+		"name": "Z28",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/8/8d/Z28.png"
+	},
+	{
+		"name": "Z28",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/c/c2/Z28_damaged.png"
+	},
+	{
+		"name": "Z31",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/1/11/Z31.png"
+	},
+	{
+		"name": "Z31",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/2/2e/Z31_damaged.png"
+	},
+	{
+		"name": "Z31",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/3/39/Z31_%28r%29.png"
+	},
+	{
+		"name": "Z31",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/0/07/Z31_%28r%29_damaged.png"
+	},
+	{
+		"name": "Amethyst",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/2/2e/Amethyst.png"
+	},
+	{
+		"name": "Amethyst",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/a/ad/Amethyst_D.png"
+	},
+	{
+		"name": "Amethyst",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/f/f2/Amethyst_M1.png"
+	},
+	{
+		"name": "Amethyst",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/0/0c/Amethyst_M1D.png"
+	},
+	{
+		"name": "Glowworm",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/5/50/Glowworm.png"
+	},
+	{
+		"name": "Glowworm",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/9/97/Glowworm_D.png"
+	},
+	{
+		"name": "Glowworm",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/8/88/Glowworm_M1.png"
+	},
+	{
+		"name": "Glowworm",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/1/1a/Glowworm_M1D.png"
+	},
+	{
+		"name": "Javelin",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/1/1d/Javelin.png"
+	},
+	{
+		"name": "Javelin",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/3/3e/Javelin_D.png"
+	},
+	{
+		"name": "Javelin",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/a/a2/Javelin_M1.png"
+	},
+	{
+		"name": "Javelin",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/d/d0/Javelin_M1D.png"
+	},
+	{
+		"name": "Juno",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/4/4a/Juno.png"
+	},
+	{
+		"name": "Juno",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/3/34/Juno_D.png"
+	},
+	{
+		"name": "Juno",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/c/cd/Juno_M1.png"
+	},
+	{
+		"name": "Juno",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/4/46/Juno_M1D.png"
+	},
+	{
+		"name": "Jackal",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/7/70/Jackal.png"
+	},
+	{
+		"name": "Jackal",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/0/0a/Jackal_D.png"
+	},
+	{
+		"name": "Jackal",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/6/60/Jackal_M1.png"
+	},
+	{
+		"name": "Jackal",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/a/ae/Jackal_M1D.png"
+	},
+	{
+		"name": "Cossack",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/d/d9/Cossack.png"
+	},
+	{
+		"name": "Cossack",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/a/a7/Cossack_D.png"
+	},
+	{
+		"name": "Eskimo",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/8/8a/Eskimo.png"
+	},
+	{
+		"name": "Eskimo",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/4/49/Eskimo_D.png"
+	},
+	{
+		"name": "Punjabi",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/f/f3/Punjabi.png"
+	},
+	{
+		"name": "Punjabi",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/7/7e/Punjabi_D.png"
+	},
+	{
+		"name": "Fletcher",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/c/c2/Fletcher.png"
+	},
+	{
+		"name": "Fletcher",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/5/5c/Fletcher_D.png"
+	},
+	{
+		"name": "Fletcher",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/6/62/Fletcher_M1.png"
+	},
+	{
+		"name": "Fletcher",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/c/c0/Fletcher_M1D.png"
+	},
+	{
+		"name": "Cassin Young",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/5/55/Cassin_Young.png"
+	},
+	{
+		"name": "Cassin Young",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/d/d3/Cassin_Young_D.png"
+	},
+	{
+		"name": "Anthony",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/6/6a/Anthony.png"
+	},
+	{
+		"name": "Anthony",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/9/94/Anthony_D.png"
+	},
+	{
+		"name": "Braine",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/d/db/Braine.png"
+	},
+	{
+		"name": "Braine",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/9/9a/Braine_D.png"
+	},
+	{
+		"name": "Gearing",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/8/8d/Gearing.png"
+	},
+	{
+		"name": "Gearing",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/8/80/Gearing_D.png"
+	},
+	{
+		"name": "Gearing",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/a/a1/Gearing_M1.png"
+	},
+	{
+		"name": "Gearing",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/3/38/Gearing_M1D.png"
+	},
+	{
+		"name": "Gyatt",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/e/e8/Gyatt.png"
+	},
+	{
+		"name": "Frank Knox",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/c/c9/Frank_Knox.png"
+	},
+	{
+		"name": "Frank Knox",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/c/cd/Frank_Knox_D.png"
+	},
+	{
+		"name": "Power",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/2/23/Power.png"
+	},
+	{
+		"name": "Reshitelny",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/8/88/Reshitelny.png"
+	},
+	{
+		"name": "Reshitelny",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/e/e3/Reshitelny_M1.png"
+	},
+	{
+		"name": "Reshitelny",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/0/0e/Reshitelny_M1D.png"
+	},
+	{
+		"name": "Vauquelin",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/7/72/Vauquelin.png"
+	},
+	{
+		"name": "Vauquelin",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/c/c4/Vauquelin_M1.png"
+	},
+	{
+		"name": "Vauquelin",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/2/21/Vauquelin_M1D.png"
+	},
+	{
+		"name": "Le Fantasque",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/7/70/Fantasque.png"
+	},
+	{
+		"name": "Le Fantasque",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/5/55/Fantasque_damaged.png"
+	},
+	{
+		"name": "Le Fantasque",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/0/09/Fantasque_%28r%29.png"
+	},
+	{
+		"name": "Le Fantasque",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/e/e6/Fantasque_%28r%29_damaged.png"
+	},
+	{
+		"name": "Lion",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/7/79/Lion_new.png"
+	},
+	{
+		"name": "Lion",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/c/ca/Lion_New_D.png"
+	},
+	{
+		"name": "Nagato",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/4/46/Nagato.png"
+	},
+	{
+		"name": "Nagato",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/6/65/Nagato_D.png"
+	},
+	{
+		"name": "Mutsu",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/e/e7/Mutsu.png"
+	},
+	{
+		"name": "Mutsu",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/a/ae/Mutsu_D.png"
+	},
+	{
+		"name": "Royal Oak",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/8/89/Royal_Oak.png"
+	},
+	{
+		"name": "Royal Oak",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/9/9c/Royal_Oak_D.png"
+	},
+	{
+		"name": "Warspite",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/c/cc/Warspite.png"
+	},
+	{
+		"name": "Warspite",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/8/8d/Warspite_D.png"
+	},
+	{
+		"name": "Vanguard",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/f/fd/Vanguard.png"
+	},
+	{
+		"name": "Vanguard",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/f/f1/Vanguard_D.png"
+	},
+	{
+		"name": "Vanguard",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/5/50/Vanguard_M1.png"
+	},
+	{
+		"name": "Vanguard",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/c/cc/Vanguard_M1D.png"
+	},
+	{
+		"name": "Tennessee",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/e/ee/Tennessee.png"
+	},
+	{
+		"name": "Tennessee",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/9/9a/Tennessee_D.png"
+	},
+	{
+		"name": "Tennessee",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/2/21/Tennessee_M1.png"
+	},
+	{
+		"name": "Tennessee",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/e/e3/Tennessee_M1D.png"
+	},
+	{
+		"name": "California",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/7/7d/California.png"
+	},
+	{
+		"name": "California",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/1/13/California_D.png"
+	},
+	{
+		"name": "Colorado",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/d/d8/Colorado.png"
+	},
+	{
+		"name": "Colorado",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/e/ee/Colorado_D.png"
+	},
+	{
+		"name": "Colorado",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/5/50/Colorado_M1.png"
+	},
+	{
+		"name": "Colorado",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/a/a3/Colorado_M1D.png"
+	},
+	{
+		"name": "Maryland",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/9/93/Maryland.png"
+	},
+	{
+		"name": "Maryland",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/4/46/Maryland_D.png"
+	},
+	{
+		"name": "Maryland",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/2/29/Maryland_M1.png"
+	},
+	{
+		"name": "Maryland",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/8/8d/Maryland_M1D.png"
+	},
+	{
+		"name": "West Virginia",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/8/8d/West_Virginia.png"
+	},
+	{
+		"name": "West Virginia",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/5/5e/West_Virginia_D.png"
+	},
+	{
+		"name": "Washington",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/e/e2/Washington.png"
+	},
+	{
+		"name": "Washington",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/2/21/Washington_D.png"
+	},
+	{
+		"name": "Vittorio Veneto",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/e/e0/Vittorio_Veneto.png"
+	},
+	{
+		"name": "Vittorio Veneto",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/8/8a/Vittorio_Veneto_damaged.png"
+	},
+	{
+		"name": "Richelieu",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/8/86/Richelieu.png"
+	},
+	{
+		"name": "Richelieu",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/9/93/Richelieu_M1.png"
+	},
+	{
+		"name": "Richelieu",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/c/c1/Richelieu_M1D.png"
+	},
+	{
+		"name": "Scharnhorst",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/0/02/Scharnhorst.png"
+	},
+	{
+		"name": "Scharnhorst",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/2/2d/Scharnhorst_D.png"
+	},
+	{
+		"name": "Gneisenau",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/d/df/Gneisenau.png"
+	},
+	{
+		"name": "Gneisenau",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/7/79/Gneisenau_D.png"
+	},
+	{
+		"name": "Goeben",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/4/4e/Goeben.png"
+	},
+	{
+		"name": "Goeben",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/4/47/Goeben_damaged.png"
+	},
+	{
+		"name": "Taihou",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/0/0e/Taiho.png"
+	},
+	{
+		"name": "Taihou",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/8/84/Taiho_D.png"
+	},
+	{
+		"name": "Taihou",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/5/51/Taiho_M1.png"
+	},
+	{
+		"name": "Taihou",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/1/1c/Taiho_M1D.png"
+	},
+	{
+		"name": "Graf Zeppelin",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/a/a4/Graf_Zeppelin.png"
+	},
+	{
+		"name": "Graf Zeppelin",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/9/9d/Graf_Zeppelin_D.png"
+	},
+	{
+		"name": "Ark Royal",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/6/6e/Ark_Royal.png"
+	},
+	{
+		"name": "Ark Royal",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/4/49/Ark_Royal_D.png"
+	},
+	{
+		"name": "Yorktown",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/8/8d/Yorktown.png"
+	},
+	{
+		"name": "Yorktown",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/8/89/Yorktown_D.png"
+	},
+	{
+		"name": "Enterprise",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/e/eb/Enterprise_%28USS%29.png"
+	},
+	{
+		"name": "Enterprise",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/8/80/Enterprise_%28USS%29_D.png"
+	},
+	{
+		"name": "Ryuujou",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/f/f7/Ryuujou.png"
+	},
+	{
+		"name": "Ryuujou",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/1/1a/Ryuujou_D.png"
+	},
+	{
+		"name": "Bogue",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/8/89/Bogue.png"
+	},
+	{
+		"name": "Bogue",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/f/f8/Bogue_D.png"
+	},
+	{
+		"name": "Bogue",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/5/57/Bogue_M1.png"
+	},
+	{
+		"name": "Bogue",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/1/10/Bogue_M1D.png"
+	},
+	{
+		"name": "Chaser",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/2/22/Chaser.png"
+	},
+	{
+		"name": "Chaser",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/4/45/Chaser_D.png"
+	},
+	{
+		"name": "Chaser",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/9/98/Chaser_M1.png"
+	},
+	{
+		"name": "Chaser",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/a/ac/Chaser_M1D.png"
+	},
+	{
+		"name": "Colossus",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/d/d3/HMS_Colossus.png"
+	},
+	{
+		"name": "Colossus",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/d/d5/Colossus_D.png"
+	},
+	{
+		"name": "Colossus",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/c/c6/Colossus_M1.png"
+	},
+	{
+		"name": "Colossus",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/8/88/Colossus_M1D.png"
+	},
+	{
+		"name": "Princeton",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/8/83/Princeton.png"
+	},
+	{
+		"name": "Princeton",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/0/09/Princeton_D.png"
+	},
+	{
+		"name": "Unicorn",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/7/7e/Unicorn.png"
+	},
+	{
+		"name": "Unicorn",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/c/c0/Unicorn_damaged.png"
+	},
+	{
+		"name": "Deutschland",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/8/84/Deutschland.png"
+	},
+	{
+		"name": "Deutschland",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/1/18/Deutschland_D.png"
+	},
+	{
+		"name": "Admiral Scheer",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/2/20/Admiral_Scheer.png"
+	},
+	{
+		"name": "Admiral Scheer",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/f/f4/Admiral_Scheer_D.png"
+	},
+	{
+		"name": "Admiral Graf Spee",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/f/f7/Admiral_Graf_Spee.png"
+	},
+	{
+		"name": "Admiral Graf Spee",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/7/72/Admiral_Graf_Spee_D.png"
+	},
+	{
+		"name": "Furutaka",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/7/75/Furutaka.png"
+	},
+	{
+		"name": "Aoba",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/4/42/Aoba.png"
+	},
+	{
+		"name": "Aoba",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/4/48/Aoba_D.png"
+	},
+	{
+		"name": "London",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/e/e0/London.png"
+	},
+	{
+		"name": "London",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/4/48/London_D.png"
+	},
+	{
+		"name": "London",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/8/8c/London_M1.png"
+	},
+	{
+		"name": "London",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/3/3e/London_M1D.png"
+	},
+	{
+		"name": "Kent",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/9/99/Kent.png"
+	},
+	{
+		"name": "Kent",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/f/f5/Kent_D.png"
+	},
+	{
+		"name": "Kent",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/c/cf/Kent_M1.png"
+	},
+	{
+		"name": "Kent",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/1/1a/Kent_M1D.png"
+	},
+	{
+		"name": "Portland",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/f/fc/Portland.png"
+	},
+	{
+		"name": "Portland",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/1/11/Portland_D.png"
+	},
+	{
+		"name": "Indianapolis",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/c/c1/Indianapolis.png"
+	},
+	{
+		"name": "Indianapolis",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/e/ea/Indianapolis_damaged.png"
+	},
+	{
+		"name": "Pensacola",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/5/5c/Pensacola.png"
+	},
+	{
+		"name": "Pensacola",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/7/72/Pensacola_D.png"
+	},
+	{
+		"name": "Salt Lake City",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/0/09/Salt_Lake_City.png"
+	},
+	{
+		"name": "Salt Lake City",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/6/6a/Salt_Lake_City_D.png"
+	},
+	{
+		"name": "Northampton",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/4/4c/Northampton.png"
+	},
+	{
+		"name": "Northampton",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/3/3a/Northampton_D.png"
+	},
+	{
+		"name": "Northampton",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/4/44/Northampton_M1.png"
+	},
+	{
+		"name": "Northampton",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/9/9e/Northampton_M1D.png"
+	},
+	{
+		"name": "Houston",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/c/c5/Houston.png"
+	},
+	{
+		"name": "Houston",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/9/99/Houston_D.png"
+	},
+	{
+		"name": "Houston",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/0/08/Houston_M1.png"
+	},
+	{
+		"name": "Houston",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/4/42/Houston_M1D.png"
+	},
+	{
+		"name": "New Orleans",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/f/f1/New_Orleans.png"
+	},
+	{
+		"name": "New Orleans",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/3/35/New_Orleans_D.png"
+	},
+	{
+		"name": "New Orleans",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/1/1a/New_Orleans_M1.png"
+	},
+	{
+		"name": "New Orleans",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/1/14/New_Orleans_M1D.png"
+	},
+	{
+		"name": "Kirov",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/7/71/Kirov.png"
+	},
+	{
+		"name": "Kirov",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/9/9d/Kirov_D.png"
+	},
+	{
+		"name": "Sendai",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/1/14/Sendai.png"
+	},
+	{
+		"name": "Sendai",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/5/57/Sendai_D.png"
+	},
+	{
+		"name": "M-Class",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/6/6d/M-Class.png"
+	},
+	{
+		"name": "M-Class",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/c/cf/M-Class_D.png"
+	},
+	{
+		"name": "Emden",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/7/76/Emden.png"
+	},
+	{
+		"name": "Emden",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/1/12/Emden_D.png"
+	},
+	{
+		"name": "Emerald",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/6/6a/Emerald.png"
+	},
+	{
+		"name": "Emerald",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/e/e1/Emerald_D.png"
+	},
+	{
+		"name": "HMS Enterprise",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/7/71/Enterprise_%28HMS%29.png"
+	},
+	{
+		"name": "HMS Enterprise",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/0/02/Enterprise_%28HMS%29_D.png"
+	},
+	{
+		"name": "Edinburgh",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/c/cc/Edinburgh.png"
+	},
+	{
+		"name": "Edinburgh",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/c/c2/Edinburgh_D.png"
+	},
+	{
+		"name": "Belfast",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/8/86/Belfast.png"
+	},
+	{
+		"name": "Belfast",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/b/bb/Belfast_D.png"
+	},
+	{
+		"name": "Courageous",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/7/71/Courageous.png"
+	},
+	{
+		"name": "Courageous",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/5/54/Courageous_D.png"
+	},
+	{
+		"name": "Glorious",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/5/51/Glorious.png"
+	},
+	{
+		"name": "Glorious",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/e/e1/Glorious_D.png"
+	},
+	{
+		"name": "San Diego",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/d/d8/San_Diego.png"
+	},
+	{
+		"name": "San Diego",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/6/62/San_Diego_D.png"
+	},
+	{
+		"name": "San Juan",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/b/bd/San_Juan.png"
+	},
+	{
+		"name": "San Juan",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/b/bb/San_Juan_D.png"
+	},
+	{
+		"name": "De Ruyter",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/3/30/De_Ruyter.png"
+	},
+	{
+		"name": "De Ruyter",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/1/17/De_Ruyter_damaged.png"
+	},
+	{
+		"name": "Yat Sen",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/5/56/Yat_Sen.png"
+	},
+	{
+		"name": "Yat Sen",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/f/f8/Yat_Sen_D.png"
+	},
+	{
+		"name": "Yat Sen",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/1/12/Yat_Sen_M1.png"
+	},
+	{
+		"name": "Yat Sen",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/c/c4/Yat_Sen_M1D.png"
+	},
+	{
+		"name": "Akizuki",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/5/5b/Akizuki.png"
+	},
+	{
+		"name": "Akizuki",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/4/4a/Akizuki_D.png"
+	},
+	{
+		"name": "Akizuki",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/8/85/Akizuki_M1.png"
+	},
+	{
+		"name": "Akizuki",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/f/fe/Akizuki_M1D.png"
+	},
+	{
+		"name": "Suzutsuki",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/3/33/Suzutsuki.png"
+	},
+	{
+		"name": "Suzutsuki",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/f/f6/Suzutsuki_M1.png"
+	},
+	{
+		"name": "Suzutsuki",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/f/fd/Suzutsuki_M1D.png"
+	},
+	{
+		"name": "Yukikaze",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/9/97/Yukikaze.png"
+	},
+	{
+		"name": "Yukikaze",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/9/9d/Yukikaze_damaged.png"
+	},
+	{
+		"name": "Ardent",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/3/3d/Ardent.png"
+	},
+	{
+		"name": "Ardent",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/4/41/Ardent_D.png"
+	},
+	{
+		"name": "Acasta",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/1/13/Acasta.png"
+	},
+	{
+		"name": "Acasta",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/6/67/Acasta_D.png"
+	},
+	{
+		"name": "Saumarez",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/c/cc/Saumarez.png"
+	},
+	{
+		"name": "Saumarez",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/2/25/Saumarez_D.png"
+	},
+	{
+		"name": "Venus",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/d/dc/Venus.png"
+	},
+	{
+		"name": "Venus",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/9/96/Venus_D.png"
+	},
+	{
+		"name": "Legion",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/2/25/Legion.png"
+	},
+	{
+		"name": "Legion",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/7/70/Legion_D.png"
+	},
+	{
+		"name": "Thatcher",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/d/d8/Thatcher.png"
+	},
+	{
+		"name": "Thatcher",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/d/d6/Thatcher_D.png"
+	},
+	{
+		"name": "Sullivans",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/e/e9/Sullivans.png"
+	},
+	{
+		"name": "Sullivans",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/5/5f/Sullivans_D.png"
+	},
+	{
+		"name": "Sigsbee",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/d/d2/Sigsbee.png"
+	},
+	{
+		"name": "O'Bannon",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/1/14/O%27Bannon.png"
+	},
+	{
+		"name": "O'Bannon",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/7/7e/O%27Bannon_D.png"
+	},
+	{
+		"name": "William D. Porter",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/f/f2/William_D._Porter.png"
+	},
+	{
+		"name": "William D. Porter",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/7/72/William_D._Porter_D.png"
+	},
+	{
+		"name": "Porter",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/c/cb/Porter.png"
+	},
+	{
+		"name": "Laffey",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/2/2a/Laffey.png"
+	},
+	{
+		"name": "Laffey",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/f/f4/Laffey_damaged.png"
+	},
+	{
+		"name": "Laffey",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/e/e4/Laffey_M1.png"
+	},
+	{
+		"name": "Laffey",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/6/69/Laffey_M1D.png"
+	},
+	{
+		"name": "Camicia Nera",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/0/02/Camicia_Nera.png"
+	},
+	{
+		"name": "Camicia Nera",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/2/22/Camicia_Nera_damaged.png"
+	},
+	{
+		"name": "Aviere",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/a/a6/Aviere.png"
+	},
+	{
+		"name": "Aviere",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/5/56/Aviere_damaged.png"
+	},
+	{
+		"name": "Antonio da Noli",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/5/52/Antonio_da_Noli_normal.png"
+	},
+	{
+		"name": "Antonio da Noli",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/9/93/Antonio_da_Noli_damaged.png"
+	},
+	{
+		"name": "Ugolino Vivaldi",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/6/66/Ugolino_Vivaldi.png"
+	},
+	{
+		"name": "Ugolino Vivaldi",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/a/ac/Ugolino_Vivaldi_damaged.png"
+	},
+	{
+		"name": "Tashkent",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/e/e9/Tashkent_normal.png"
+	},
+	{
+		"name": "Tashkent",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/e/ed/Tashkent_damaged.png"
+	},
+	{
+		"name": "Engels",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/1/1b/Engels.png"
+	},
+	{
+		"name": "Engels",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/d/d4/Engels_D.png"
+	},
+	{
+		"name": "Albacore",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/e/e1/Albacore.png"
+	},
+	{
+		"name": "Albacore",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/7/7f/Albacore_D.png"
+	},
+	{
+		"name": "Albacore",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/a/ab/Albacore_M1.png"
+	},
+	{
+		"name": "Albacore",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/e/ef/Albacore_M1D.png"
+	},
+	{
+		"name": "Archerfish",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/c/cc/Archerfish.png"
+	},
+	{
+		"name": "Archerfish",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/2/2a/Archerfish_D.png"
+	},
+	{
+		"name": "Archerfish",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/f/ff/Archerfish_M1.png"
+	},
+	{
+		"name": "Archerfish",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/e/e2/Archerfish_M1D.png"
+	},
+	{
+		"name": "M1",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/5/59/M1.png"
+	},
+	{
+		"name": "M1",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/4/4d/M1_D.png"
+	},
+	{
+		"name": "U47",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/e/e1/U47.png"
+	},
+	{
+		"name": "U47",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/a/a1/U47_D.png"
+	},
+	{
+		"name": "U47",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/9/91/U47_M1.png"
+	},
+	{
+		"name": "U47",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/a/aa/U47_M1D.png"
+	},
+	{
+		"name": "U505",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/c/c4/U505.png"
+	},
+	{
+		"name": "U505",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/a/a5/U505_D.png"
+	},
+	{
+		"name": "Surcouf",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/1/1d/Surcouf.png"
+	},
+	{
+		"name": "Surcouf",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/a/a4/Surcouf_damaged.png"
+	},
+	{
+		"name": "Queen Elizabeth",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/5/53/Queen_Elizabeth.png"
+	},
+	{
+		"name": "Queen Elizabeth",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/0/03/Queen_Elizabeth_D.png"
+	},
+	{
+		"name": "North Carolina",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/8/8e/North_Carolina.png"
+	},
+	{
+		"name": "North Carolina",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/1/1d/North_Carolina_D.png"
+	},
+	{
+		"name": "South Dakota",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/4/45/South_Dakota.png"
+	},
+	{
+		"name": "South Dakota",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/c/ce/South_Dakota_D.png"
+	},
+	{
+		"name": "Missouri",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/f/f6/Missouri.png"
+	},
+	{
+		"name": "Missouri",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/4/4e/Missouri_D.png"
+	},
+	{
+		"name": "Sovetsky Soyuz",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/f/f0/Sovetsky_Soyuz.png"
+	},
+	{
+		"name": "Sovetsky Soyuz",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/8/80/Sovetsky_Soyuz_D.png"
+	},
+	{
+		"name": "Zuikaku",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/0/08/Zuikaku.png"
+	},
+	{
+		"name": "Zuikaku",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/7/70/Zuikaku_D.png"
+	},
+	{
+		"name": "Shokaku",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/3/3c/Shokaku.png"
+	},
+	{
+		"name": "Shokaku",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/7/73/Shokaku_D.png"
+	},
+	{
+		"name": "Shokaku",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/f/ff/Shokaku_M1.png"
+	},
+	{
+		"name": "Shokaku",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/9/94/Shokaku_M1D.png"
+	},
+	{
+		"name": "Hiryu",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/b/bc/Hiryu.png"
+	},
+	{
+		"name": "Hiryu",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/5/51/Hiryu_D.png"
+	},
+	{
+		"name": "Soryu",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/b/b0/Soryu.png"
+	},
+	{
+		"name": "Soryu",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/a/a9/Soryu_D.png"
+	},
+	{
+		"name": "Wasp",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/f/f8/Wasp.png"
+	},
+	{
+		"name": "Wasp",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/0/02/Wasp_D.png"
+	},
+	{
+		"name": "Essex",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/1/16/Essex_N.png"
+	},
+	{
+		"name": "Essex",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/b/b1/Essex_D.png"
+	},
+	{
+		"name": "Hiyo",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/7/73/Hiyo.png"
+	},
+	{
+		"name": "Hiyo",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/d/d4/Hiyo_D.png"
+	},
+	{
+		"name": "Junyou",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/d/d4/Jun%27yo.png"
+	},
+	{
+		"name": "Junyou",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/7/75/Jun%27yo_D.png"
+	},
+	{
+		"name": "Junyou",
+		"skin": "M1",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/9/93/Jun%27yo_M1.png"
+	},
+	{
+		"name": "Junyou",
+		"skin": "M1D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/9/97/Jun%27yo_M1D.png"
+	},
+	{
+		"name": "Mogami",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/4/4f/Mogami.png"
+	},
+	{
+		"name": "Mogami",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/b/be/Mogami_D.png"
+	},
+	{
+		"name": "Mikuma",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/e/e4/Mikuma.png"
+	},
+	{
+		"name": "Mikuma",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/3/3a/Mikuma_D.png"
+	},
+	{
+		"name": "Suzuya",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/d/d9/Suzuya.png"
+	},
+	{
+		"name": "Suzuya",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/0/0f/Suzuya_D.png"
+	},
+	{
+		"name": "Kumano",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/3/38/Kumano.png"
+	},
+	{
+		"name": "Kumano",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/1/1e/Kumano_D.png"
+	},
+	{
+		"name": "Suffolk",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/c/cf/Suffolk_base.png"
+	},
+	{
+		"name": "Suffolk",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/7/74/Suffolk_damaged.png"
+	},
+	{
+		"name": "York",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/d/d6/York.png"
+	},
+	{
+		"name": "York",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/0/0d/York_D.png"
+	},
+	{
+		"name": "Exeter",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/a/a8/Exeter.png"
+	},
+	{
+		"name": "Exeter",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/c/ce/Exeter_D.png"
+	},
+	{
+		"name": "Baltimore",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/a/a2/Baltimore.png"
+	},
+	{
+		"name": "Baltimore",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/a/ac/Baltimore_D.png"
+	},
+	{
+		"name": "Kotori",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/a/ab/Kotori.png"
+	},
+	{
+		"name": "Kotori",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/9/9b/Kotori_D.png"
+	},
+	{
+		"name": "Ooyodo",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/c/ca/Ooyodo.png"
+	},
+	{
+		"name": "Ooyodo",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/8/82/Ooyodo_D.png"
+	},
+	{
+		"name": "Leipzig",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/2/26/Leipzig.png"
+	},
+	{
+		"name": "Leipzig",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/3/3d/Leipzig_D.png"
+	},
+	{
+		"name": "Ying Swei",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/c/cb/Ying_Swei.png"
+	},
+	{
+		"name": "Ying Swei",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/5/54/Ying_Swei_damaged.png"
+	},
+	{
+		"name": "Chao Ho",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/e/ee/Chao_Ho.png"
+	},
+	{
+		"name": "Chao Ho",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/c/cf/Chao_Ho_damaged.png"
+	},
+	{
+		"name": "Mutsuki",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/0/0b/Mutsuki.png"
+	},
+	{
+		"name": "Mutsuki",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/d/db/Mutsuki_D.png"
+	},
+	{
+		"name": "Arashi",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/f/fd/Arashi.png"
+	},
+	{
+		"name": "Arashi",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/a/ab/Arashi_D.png"
+	},
+	{
+		"name": "Shiratsuyu",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/4/44/Shiratsuyu.png"
+	},
+	{
+		"name": "Shiratsuyu",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/1/17/Shiratsuyu_D.png"
+	},
+	{
+		"name": "Shimakaze",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/a/ae/Shimakaze.png"
+	},
+	{
+		"name": "Shimakaze",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/c/c4/Shimakaze_D.png"
+	},
+	{
+		"name": "Minekaze",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/1/1a/Minekaze.png"
+	},
+	{
+		"name": "Minekaze",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/2/2a/Minekaze_D.png"
+	},
+	{
+		"name": "Z17",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/b/b7/Z17.png"
+	},
+	{
+		"name": "Z17",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/7/71/Z17_D.png"
+	},
+	{
+		"name": "Z18",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/1/1a/Z18.png"
+	},
+	{
+		"name": "Z18",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/d/d9/Z18_D.png"
+	},
+	{
+		"name": "Vampire",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/4/4e/Vampire.png"
+	},
+	{
+		"name": "Vampire",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/2/2e/Vampire_D.png"
+	},
+	{
+		"name": "Haida",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/9/90/Haida.png"
+	},
+	{
+		"name": "Haida",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/6/62/Haida_D.png"
+	},
+	{
+		"name": "Converse",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/4/47/Converse.png"
+	},
+	{
+		"name": "Converse",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/f/f1/Converse_D.png"
+	},
+	{
+		"name": "Dyson",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/9/92/Dyson.png"
+	},
+	{
+		"name": "Dyson",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/5/59/Dyson_D.png"
+	},
+	{
+		"name": "Claxton",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/1/1b/Claxton.png"
+	},
+	{
+		"name": "Claxton",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/9/99/Claxton_D.png"
+	},
+	{
+		"name": "Hoel",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/9/94/Hoel.png"
+	},
+	{
+		"name": "Hoel",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/3/34/Hoel_D.png"
+	},
+	{
+		"name": "Samuel B. Roberts",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/6/6e/Samuel_B._Roberts.png"
+	},
+	{
+		"name": "Samuel B. Roberts",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/f/fe/Samuel_B._Roberts_D.png"
+	},
+	{
+		"name": "Johnston",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/7/73/Johnston.png"
+	},
+	{
+		"name": "Johnston",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/1/17/Johnston_D.png"
+	},
+	{
+		"name": "U81",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/1/14/U81.png"
+	},
+	{
+		"name": "U81",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/0/0a/U81_damaged.png"
+	},
+	{
+		"name": "Tang",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/3/3a/Tang.png"
+	},
+	{
+		"name": "Tang",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/4/4b/Tang_D.png"
+	},
+	{
+		"name": "Sukhbaatar",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/c/cb/Sukhbaatar.png"
+	},
+	{
+		"name": "Sukhbaatar",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/9/9c/Sukhbaatar_D.png"
+	},
+	{
+		"name": "Mahan",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/5/59/Mahan.png"
+	},
+	{
+		"name": "Mahan",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/6/63/Mahan_D.png"
+	},
+	{
+		"name": "St. Louis",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/4/44/St._Louis.png"
+	},
+	{
+		"name": "St. Louis",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/3/3a/St._Louis_D.png"
+	},
+	{
+		"name": "Odinn",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/4/42/Odinn.png"
+	},
+	{
+		"name": "Odinn",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/5/5c/Odinn_D.png"
+	},
+	{
+		"name": "Jeanne d'Arc",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/c/c5/Jeanne_d%27Arc.png"
+	},
+	{
+		"name": "Jeanne d'Arc",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/6/6e/Jeanne_d%27Arc_D.png"
+	},
+	{
+		"name": "Barfleur",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/a/af/Barfleur.png"
+	},
+	{
+		"name": "Barfleur",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/4/4e/Barfleur_D.png"
+	},
+	{
+		"name": "Vestal",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/1/14/Vestal.png"
+	},
+	{
+		"name": "Vestal",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/b/b7/Vestal_D.png"
+	},
+	{
+		"name": "Cushing",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/6/6f/Cushing.png"
+	},
+	{
+		"name": "Cushing",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/b/b6/Cushing_D.png"
+	},
+	{
+		"name": "Guadalcanal",
+		"skin": "",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/5/5d/Guadalcanal.png"
+	},
+	{
+		"name": "Guadalcanal",
+		"skin": "D",
+		"link": "https://static.wikia.nocookie.net/warship-girls/images/6/61/Guadalcanal_D.png"
+	}
+]

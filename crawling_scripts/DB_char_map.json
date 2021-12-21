@@ -1,0 +1,586 @@
+[
+	{
+		"char_id": "1023",
+		"char_name": "Taihou"
+	},
+	{
+		"char_id": "1021",
+		"char_name": "Akagi"
+	},
+	{
+		"char_id": "1022",
+		"char_name": "Kaga"
+	},
+	{
+		"char_id": "1002",
+		"char_name": "Shokaku"
+	},
+	{
+		"char_id": "1003",
+		"char_name": "Zuikaku"
+	},
+	{
+		"char_id": "1026",
+		"char_name": "Lexington"
+	},
+	{
+		"char_id": "1029",
+		"char_name": "Saratoga"
+	},
+	{
+		"char_id": "1010",
+		"char_name": "Enterprise"
+	},
+	{
+		"char_id": "1016",
+		"char_name": "Yorktown"
+	},
+	{
+		"char_id": "1018",
+		"char_name": "Hornet"
+	},
+	{
+		"char_id": "1005",
+		"char_name": "Wasp"
+	},
+	{
+		"char_id": "1011",
+		"char_name": "Bon Homme Richard"
+	},
+	{
+		"char_id": "1015",
+		"char_name": "Essex"
+	},
+	{
+		"char_id": "1024",
+		"char_name": "Ark Royal"
+	},
+	{
+		"char_id": "2003",
+		"char_name": "Chitose"
+	},
+	{
+		"char_id": "2009",
+		"char_name": "Chiyoda"
+	},
+	{
+		"char_id": "2001",
+		"char_name": "Hiyo"
+	},
+	{
+		"char_id": "1008",
+		"char_name": "Langley"
+	},
+	{
+		"char_id": "1012",
+		"char_name": "Unicorn"
+	},
+	{
+		"char_id": "2002",
+		"char_name": "Hermes"
+	},
+	{
+		"char_id": "2004",
+		"char_name": "Argus"
+	},
+	{
+		"char_id": "6025",
+		"char_name": "Kongo"
+	},
+	{
+		"char_id": "6029",
+		"char_name": "Hiei"
+	},
+	{
+		"char_id": "6008",
+		"char_name": "Fuso"
+	},
+	{
+		"char_id": "6009",
+		"char_name": "Yamashiro"
+	},
+	{
+		"char_id": "6014",
+		"char_name": "South Dakota"
+	},
+	{
+		"char_id": "6021",
+		"char_name": "North Carolina"
+	},
+	{
+		"char_id": "6038",
+		"char_name": "Colorado"
+	},
+	{
+		"char_id": "6034",
+		"char_name": "Wyoming"
+	},
+	{
+		"char_id": "6017",
+		"char_name": "Pennsylvania"
+	},
+	{
+		"char_id": "6005",
+		"char_name": "Hood"
+	},
+	{
+		"char_id": "6010",
+		"char_name": "Queen Elizabeth"
+	},
+	{
+		"char_id": "6011",
+		"char_name": "Warspite"
+	},
+	{
+		"char_id": "6016",
+		"char_name": "Nelson"
+	},
+	{
+		"char_id": "6031",
+		"char_name": "King George V"
+	},
+	{
+		"char_id": "6012",
+		"char_name": "Prince of Wales"
+	},
+	{
+		"char_id": "6013",
+		"char_name": "Vanguard"
+	},
+	{
+		"char_id": "6007",
+		"char_name": "Scharnhorst"
+	},
+	{
+		"char_id": "4002",
+		"char_name": "Myoko"
+	},
+	{
+		"char_id": "4003",
+		"char_name": "Nachi"
+	},
+	{
+		"char_id": "4006",
+		"char_name": "Ashigara"
+	},
+	{
+		"char_id": "4005",
+		"char_name": "Haguro"
+	},
+	{
+		"char_id": "4020",
+		"char_name": "Takao"
+	},
+	{
+		"char_id": "4021",
+		"char_name": "Atago"
+	},
+	{
+		"char_id": "4023",
+		"char_name": "Choukai"
+	},
+	{
+		"char_id": "4016",
+		"char_name": "Mogami"
+	},
+	{
+		"char_id": "4015",
+		"char_name": "Northampton"
+	},
+	{
+		"char_id": "4013",
+		"char_name": "Pensacola"
+	},
+	{
+		"char_id": "4030",
+		"char_name": "Norfolk"
+	},
+	{
+		"char_id": "4031",
+		"char_name": "Dorestshire"
+	},
+	{
+		"char_id": "4007",
+		"char_name": "Hipper"
+	},
+	{
+		"char_id": "4001",
+		"char_name": "Blücher"
+	},
+	{
+		"char_id": "4008",
+		"char_name": "Prinz Eugen"
+	},
+	{
+		"char_id": "4009",
+		"char_name": "Seydlitz"
+	},
+	{
+		"char_id": "4010",
+		"char_name": "Lützow"
+	},
+	{
+		"char_id": "3017",
+		"char_name": "Yubari"
+	},
+	{
+		"char_id": "3005",
+		"char_name": "Sendai"
+	},
+	{
+		"char_id": "3001",
+		"char_name": "Atlanta"
+	},
+	{
+		"char_id": "3019",
+		"char_name": "Juneau"
+	},
+	{
+		"char_id": "3004",
+		"char_name": "Cleveland"
+	},
+	{
+		"char_id": "3009",
+		"char_name": "San Diego"
+	},
+	{
+		"char_id": "3033",
+		"char_name": "Columbia"
+	},
+	{
+		"char_id": "3018",
+		"char_name": "Helena"
+	},
+	{
+		"char_id": "3014",
+		"char_name": "Flint"
+	},
+	{
+		"char_id": "3002",
+		"char_name": "Leander"
+	},
+	{
+		"char_id": "3013",
+		"char_name": "Neptune"
+	},
+	{
+		"char_id": "3016",
+		"char_name": "Edinburgh"
+	},
+	{
+		"char_id": "3026",
+		"char_name": "Belfast"
+	},
+	{
+		"char_id": "3012",
+		"char_name": "Liverpool"
+	},
+	{
+		"char_id": "3010",
+		"char_name": "Leipzig"
+	},
+	{
+		"char_id": "3035",
+		"char_name": "Nürnberg"
+	},
+	{
+		"char_id": "3015",
+		"char_name": "Königsberg"
+	},
+	{
+		"char_id": "5006",
+		"char_name": "Kagero"
+	},
+	{
+		"char_id": "5008",
+		"char_name": "Shiranui"
+	},
+	{
+		"char_id": "5043",
+		"char_name": "Oyashio"
+	},
+	{
+		"char_id": "5045",
+		"char_name": "Yukikaze"
+	},
+	{
+		"char_id": "5053",
+		"char_name": "Amatsukaze"
+	},
+	{
+		"char_id": "5031",
+		"char_name": "Hagikaze"
+	},
+	{
+		"char_id": "5002",
+		"char_name": "Akatsuki"
+	},
+	{
+		"char_id": "5014",
+		"char_name": "Hibiki"
+	},
+	{
+		"char_id": "5015",
+		"char_name": "Shiratsuyu"
+	},
+	{
+		"char_id": "5034",
+		"char_name": "Yudachi"
+	},
+	{
+		"char_id": "5029",
+		"char_name": "Hayashimo"
+	},
+	{
+		"char_id": "5047",
+		"char_name": "Fletcher"
+	},
+	{
+		"char_id": "5009",
+		"char_name": "Mahan"
+	},
+	{
+		"char_id": "5012",
+		"char_name": "Cassin"
+	},
+	{
+		"char_id": "5040",
+		"char_name": "Downes"
+	},
+	{
+		"char_id": "5004",
+		"char_name": "Gridley"
+	},
+	{
+		"char_id": "5022",
+		"char_name": "Conner"
+	},
+	{
+		"char_id": "5021",
+		"char_name": "Dale"
+	},
+	{
+		"char_id": "5048",
+		"char_name": "Gearing"
+	},
+	{
+		"char_id": "5060",
+		"char_name": "Power"
+	},
+	{
+		"char_id": "5032",
+		"char_name": "Acheron"
+	},
+	{
+		"char_id": "5013",
+		"char_name": "Bulldog"
+	},
+	{
+		"char_id": "5010",
+		"char_name": "Beagle"
+	},
+	{
+		"char_id": "5019",
+		"char_name": "Cygnet"
+	},
+	{
+		"char_id": "5017",
+		"char_name": "Fortune"
+	},
+	{
+		"char_id": "5026",
+		"char_name": "Glowworm"
+	},
+	{
+		"char_id": "5042",
+		"char_name": "Javelin"
+	},
+	{
+		"char_id": "5003",
+		"char_name": "Jupiter"
+	},
+	{
+		"char_id": "5025",
+		"char_name": "Vampire"
+	},
+	{
+		"char_id": "5011",
+		"char_name": "Battleaxe"
+	},
+	{
+		"char_id": "5049",
+		"char_name": "Z1"
+	},
+	{
+		"char_id": "5051",
+		"char_name": "Z3"
+	},
+	{
+		"char_id": "5033",
+		"char_name": "Z26"
+	},
+	{
+		"char_id": "6023",
+		"char_name": "Yamato"
+	},
+	{
+		"char_id": "1001",
+		"char_name": "Midway"
+	},
+	{
+		"char_id": "6006",
+		"char_name": "New York"
+	},
+	{
+		"char_id": "1001",
+		"char_name": "Shangri-la"
+	},
+	{
+		"char_id": "5036",
+		"char_name": "Ayanami"
+	},
+	{
+		"char_id": "1028",
+		"char_name": "Glorious"
+	},
+	{
+		"char_id": "5046",
+		"char_name": "Amazon"
+	},
+	{
+		"char_id": "1020",
+		"char_name": "Graf Zeppelin"
+	},
+	{
+		"char_id": "1006",
+		"char_name": "Courageous"
+	},
+	{
+		"char_id": "6015",
+		"char_name": "Rodney"
+	},
+	{
+		"char_id": "3021",
+		"char_name": "Minotaur"
+	},
+	{
+		"char_id": "1017",
+		"char_name": "Implacable"
+	},
+	{
+		"char_id": "1019",
+		"char_name": "Indefatigable"
+	},
+	{
+		"char_id": "5027",
+		"char_name": "Uzuki"
+	},
+	{
+		"char_id": "1004",
+		"char_name": "Mizuho"
+	},
+	{
+		"char_id": "6001",
+		"char_name": "Nagato"
+	},
+	{
+		"char_id": "5058",
+		"char_name": "Haynsworth"
+	},
+	{
+		"char_id": "6002",
+		"char_name": "Mutsu"
+	},
+	{
+		"char_id": "4019",
+		"char_name": "Kako"
+	},
+	{
+		"char_id": "5028",
+		"char_name": "Akizuki"
+	},
+	{
+		"char_id": "5044",
+		"char_name": "Shimakaze"
+	},
+	{
+		"char_id": "6039",
+		"char_name": "Maryland"
+	},
+	{
+		"char_id": "4033",
+		"char_name": "London"
+	},
+	{
+		"char_id": "1014",
+		"char_name": "Souryuu"
+	},
+	{
+		"char_id": "2010",
+		"char_name": "Tsukino Mito"
+	},
+	{
+		"char_id": "2011",
+		"char_name": "Shizuka Rin"
+	},
+	{
+		"char_id": "4055",
+		"char_name": "Shiina Yuika"
+	},
+	{
+		"char_id": "6064",
+		"char_name": "Kaede Higuchi"
+	},
+	{
+		"char_id": "1007",
+		"char_name": "Hiryuu"
+	},
+	{
+		"char_id": "6048",
+		"char_name": "Saint George"
+	},
+	{
+		"char_id": "5052",
+		"char_name": "Shikinami"
+	},
+	{
+		"char_id": "6018",
+		"char_name": "Bismarck"
+	},
+	{
+		"char_id": "3023",
+		"char_name": "Karlsruhe"
+	},
+	{
+		"char_id": "5050",
+		"char_name": "Z52"
+	},
+	{
+		"char_id": "3053",
+		"char_name": "Chapayev"
+	},
+	{
+		"char_id": "6020",
+		"char_name": "Tirpitz"
+	},
+	{
+		"char_id": "4032",
+		"char_name": "San Francisco"
+	},
+	{
+		"char_id": "5001",
+		"char_name": "?"
+	},
+	{
+		"char_id": "5059",
+		"char_name": "O'Bannon"
+	},
+	{
+		"char_id": "6004",
+		"char_name": "California"
+	},
+	{
+		"char_id": "6024",
+		"char_name": "Musashi"
+	}
+]

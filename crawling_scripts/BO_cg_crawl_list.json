@@ -1,0 +1,1601 @@
+[
+	{
+		"ship": "Saratoga",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/7/76/Saratoga_Full.png"
+	},
+	{
+		"ship": "Saratoga",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/0/0f/Saratoga_Damaged_Full.png"
+	},
+	{
+		"ship": "Saratoga",
+		"skin": "Beware the Wolf!",
+		"link": "https://static.miraheze.org/blueoathwiki/d/d3/Saratoga_4_Full.png"
+	},
+	{
+		"ship": "Yorktown",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/e/eb/Yorktown_Full.png"
+	},
+	{
+		"ship": "Yorktown",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/4/43/Yorktown_Damaged_Full.png"
+	},
+	{
+		"ship": "Hornet",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/9/96/Hornet_Full.png"
+	},
+	{
+		"ship": "Hornet",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/0/0c/Hornet_Damaged_Full.png"
+	},
+	{
+		"ship": "Hornet",
+		"skin": "Voice of the Wasp",
+		"link": "https://static.miraheze.org/blueoathwiki/d/d7/Hornet_School_Full.png"
+	},
+	{
+		"ship": "Ranger",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/e/ed/Ranger_Full.png"
+	},
+	{
+		"ship": "Ranger",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/f/fd/Ranger_Damaged_Full.png"
+	},
+	{
+		"ship": "Wasp",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/b/bc/Wasp_Full.png"
+	},
+	{
+		"ship": "Wasp",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/5/5c/Wasp_Damaged_Full.png"
+	},
+	{
+		"ship": "Langley",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/1/1a/Langley_Full.png"
+	},
+	{
+		"ship": "Langley",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/a/ac/Langley_Damaged_Full.png"
+	},
+	{
+		"ship": "Akagi",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/f/f7/Akagi_Full.png"
+	},
+	{
+		"ship": "Akagi",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/a/ae/Akagi_Damaged_Full.png"
+	},
+	{
+		"ship": "Akagi",
+		"skin": "Effervescent Crimson",
+		"link": "https://static.miraheze.org/blueoathwiki/7/77/Akagi_2_Full.png"
+	},
+	{
+		"ship": "Akagi",
+		"skin": "Ruby Formal Dress",
+		"link": "https://static.miraheze.org/blueoathwiki/1/1f/Akagi_10_Full.png"
+	},
+	{
+		"ship": "Kaga",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/0/07/Kaga_Full.png"
+	},
+	{
+		"ship": "Kaga",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/8/8a/Kaga_Damaged_Full.png"
+	},
+	{
+		"ship": "Kaga",
+		"skin": "Overflowing Azure",
+		"link": "https://static.miraheze.org/blueoathwiki/a/a4/Kaga_2_Full.png"
+	},
+	{
+		"ship": "Kaga",
+		"skin": "Sapphire Formal Dress",
+		"link": "https://static.miraheze.org/blueoathwiki/c/c0/Kaga_10_Full.png"
+	},
+	{
+		"ship": "Souryuu",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/f/f2/Souryuu_Full.png"
+	},
+	{
+		"ship": "Souryuu",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/7/74/Souryuu_Damaged_Full.png"
+	},
+	{
+		"ship": "Hiryuu",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/e/e5/Hiryuu_Full.png"
+	},
+	{
+		"ship": "Hiryuu",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/9/96/Hiryuu_Damaged_Full.png"
+	},
+	{
+		"ship": "Hiryuu",
+		"skin": "Autumn Skin",
+		"link": "https://static.miraheze.org/blueoathwiki/2/23/Hiryuu_8_Full.png"
+	},
+	{
+		"ship": "Shouhou",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/d/da/Shouhou_Full.png"
+	},
+	{
+		"ship": "Shouhou",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/7/77/Shouhou_Damaged_Full.png"
+	},
+	{
+		"ship": "Shouhou",
+		"skin": "Full Retrofit Art",
+		"link": "https://static.miraheze.org/blueoathwiki/2/24/Shouhou_Retrofit_Full.png"
+	},
+	{
+		"ship": "Zuihou",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/f/f0/Zuihou_Full.png"
+	},
+	{
+		"ship": "Zuihou",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/1/1a/Zuihou_Damaged_Full.png"
+	},
+	{
+		"ship": "Zuihou",
+		"skin": "Full Retrofit Art",
+		"link": "https://static.miraheze.org/blueoathwiki/6/66/Zuihou_Retrofit_Full.png"
+	},
+	{
+		"ship": "Ark Royal",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/2/2b/ArkRoyal_Full.png"
+	},
+	{
+		"ship": "Ark Royal",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/f/f3/ArkRoyal_Damaged_Full.png"
+	},
+	{
+		"ship": "Ark Royal",
+		"skin": "Crimson-Emerald Lion",
+		"link": "https://static.miraheze.org/blueoathwiki/8/8a/ArkRoyal_6_Full.png"
+	},
+	{
+		"ship": "Courageous",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/b/bd/Courageous_Full.png"
+	},
+	{
+		"ship": "Courageous",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/f/fe/Courageous_Damaged_Full.png"
+	},
+	{
+		"ship": "Courageous",
+		"skin": "Full Retrofit Art",
+		"link": "https://static.miraheze.org/blueoathwiki/5/52/Courageous_Retrofit_Full.png"
+	},
+	{
+		"ship": "Furious",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/7/7a/Furious_Full.png"
+	},
+	{
+		"ship": "Furious",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/4/4c/Furious_Damaged_Full.png"
+	},
+	{
+		"ship": "Queen Elizabeth",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/b/bd/QueenElizabeth_Full.png"
+	},
+	{
+		"ship": "Queen Elizabeth",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/4/4b/QueenElizabeth_Damaged_Full.png"
+	},
+	{
+		"ship": "Queen Elizabeth",
+		"skin": "Full Retrofit Art",
+		"link": "https://static.miraheze.org/blueoathwiki/1/1f/QueenElizabeth_Retrofit_Full.png"
+	},
+	{
+		"ship": "Queen Elizabeth",
+		"skin": "Summer Queen",
+		"link": "https://static.miraheze.org/blueoathwiki/6/6a/QueenElizabeth_2_Full.png"
+	},
+	{
+		"ship": "Queen Elizabeth",
+		"skin": "Flower of the First Night",
+		"link": "https://static.miraheze.org/blueoathwiki/4/43/QueenElizabeth_6_Full.png"
+	},
+	{
+		"ship": "Queen Elizabeth",
+		"skin": "Blond Maid",
+		"link": "https://static.miraheze.org/blueoathwiki/a/ae/QueenElizabeth_9_Full.png"
+	},
+	{
+		"ship": "Warspite",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/3/3c/Warspite_Full.png"
+	},
+	{
+		"ship": "Warspite",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/e/e1/Warspite_Damaged_Full.png"
+	},
+	{
+		"ship": "Warspite",
+		"skin": "Pearl King",
+		"link": "https://static.miraheze.org/blueoathwiki/e/eb/Warspite_2_Full.png"
+	},
+	{
+		"ship": "Warspite",
+		"skin": "Silver Butler",
+		"link": "https://static.miraheze.org/blueoathwiki/8/83/Warspite_9_Full.png"
+	},
+	{
+		"ship": "Scharnhorst",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/5/51/Scharnhorst_Full.png"
+	},
+	{
+		"ship": "Scharnhorst",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/b/be/Scharnhorst_Damaged_Full.png"
+	},
+	{
+		"ship": "Scharnhorst",
+		"skin": "Full Retrofit Art",
+		"link": "https://static.miraheze.org/blueoathwiki/f/f9/Scharnhorst_Retrofit_Full.png"
+	},
+	{
+		"ship": "Scharnhorst",
+		"skin": "Portside Order",
+		"link": "https://static.miraheze.org/blueoathwiki/2/2f/Scharnhorst_3_Full.png"
+	},
+	{
+		"ship": "Gneisenau",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/b/ba/Gneisenau_Full.png"
+	},
+	{
+		"ship": "Gneisenau",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/7/7f/Gneisenau_Damaged_Full.png"
+	},
+	{
+		"ship": "Gneisenau",
+		"skin": "Full Retrofit Art",
+		"link": "https://static.miraheze.org/blueoathwiki/2/24/Gneisenau_Retrofit_Full.png"
+	},
+	{
+		"ship": "Gneisenau",
+		"skin": "Birth of the Cerberus",
+		"link": "https://static.miraheze.org/blueoathwiki/7/78/Gneisenau_4_Full.png"
+	},
+	{
+		"ship": "Hood",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/5/56/Hood_New_Full.png"
+	},
+	{
+		"ship": "Hood",
+		"skin": "Full Art (Old)",
+		"link": "https://static.miraheze.org/blueoathwiki/6/62/Hood_Full.png"
+	},
+	{
+		"ship": "Hood",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/1/11/Hood_Damaged_Full.png"
+	},
+	{
+		"ship": "Hood",
+		"skin": "Rutile Radiance",
+		"link": "https://static.miraheze.org/blueoathwiki/a/a3/Hood_2_Full.png"
+	},
+	{
+		"ship": "Renown",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/6/63/Renown_Full.png"
+	},
+	{
+		"ship": "Renown",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/6/61/Renown_Damaged_Full.png"
+	},
+	{
+		"ship": "Repulse",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/e/ed/Repulse_Full.png"
+	},
+	{
+		"ship": "Repulse",
+		"skin": "Full CN Art",
+		"link": "https://static.miraheze.org/blueoathwiki/c/cf"
+	},
+	{
+		"ship": "Repulse",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/7/7d/Repulse_Damaged_Full.png"
+	},
+	{
+		"ship": "Admiral Scheer",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/5/5e/AdmiralScheer_Full.png"
+	},
+	{
+		"ship": "Admiral Scheer",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/6/60/AdmiralScheer_Damaged_Full.png"
+	},
+	{
+		"ship": "Chicago",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/5/56/Chicago_Full.png"
+	},
+	{
+		"ship": "Chicago",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/f/ff/Chicago_Damaged_Full.png"
+	},
+	{
+		"ship": "Portland",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/1/19/Portland_Full.png"
+	},
+	{
+		"ship": "Portland",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/3/33/Portland_Damaged_Full.png"
+	},
+	{
+		"ship": "Portland",
+		"skin": "Full Retrofit Art",
+		"link": "https://static.miraheze.org/blueoathwiki/2/23/Portland_Retrofit_Full.png"
+	},
+	{
+		"ship": "Indianapolis",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/7/78/Indianapolis_Full.png"
+	},
+	{
+		"ship": "Indianapolis",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/7/72/Indianapolis_Damaged_Full.png"
+	},
+	{
+		"ship": "Indianapolis",
+		"skin": "Full Retrofit Art",
+		"link": "https://static.miraheze.org/blueoathwiki/f/ff/Indianapolis_Retrofit_Full.png"
+	},
+	{
+		"ship": "Tuscaloosa",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/b/bd/Tuscaloosa_Full.png"
+	},
+	{
+		"ship": "Tuscaloosa",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/5/5c/Tuscaloosa_Damaged_Full.png"
+	},
+	{
+		"ship": "San Francisco",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/a/ae/SanFran_Full.png"
+	},
+	{
+		"ship": "San Francisco",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/6/67/SanFran_Damaged_Full.png"
+	},
+	{
+		"ship": "Haguro",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/4/40/Haguro_Full.png"
+	},
+	{
+		"ship": "Haguro",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/e/e1/Haguro_Damaged_Full.png"
+	},
+	{
+		"ship": "Haguro",
+		"skin": "Bloodsucking Vampire",
+		"link": "https://static.miraheze.org/blueoathwiki/1/10/Haguro_4_Full.png"
+	},
+	{
+		"ship": "Norfolk",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/5/5a/Norfolk_Full.png"
+	},
+	{
+		"ship": "Norfolk",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/0/09/Norfolk_Damaged_Full.png"
+	},
+	{
+		"ship": "Dorsetshire",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/4/4e/Dorsetshire_Full.png"
+	},
+	{
+		"ship": "Dorsetshire",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/5/50/Dorsetshire_Damaged_Full.png"
+	},
+	{
+		"ship": "Dorsetshire",
+		"skin": "Full Damaged Art (CN)",
+		"link": "https://static.miraheze.org/blueoathwiki/7/72/Dorsetshire_DamagedCensored_Full.png"
+	},
+	{
+		"ship": "Blücher",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/d/d6/Blucher_Full.png"
+	},
+	{
+		"ship": "Blücher",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/b/bb/Blucher_Damaged_Full.png"
+	},
+	{
+		"ship": "Prinz Eugen",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/2/22/PrinzEugen_Full.png"
+	},
+	{
+		"ship": "Prinz Eugen",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/5/54/PrinzEugen_Damaged_Full.png"
+	},
+	{
+		"ship": "Prinz Eugen",
+		"skin": "Holy Night Allure",
+		"link": "https://static.miraheze.org/blueoathwiki/6/6e/PrinzEugen_5_Full.png"
+	},
+	{
+		"ship": "Brooklyn",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/f/ff/Brooklyn_Full.png"
+	},
+	{
+		"ship": "Brooklyn",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/5/53/Brooklyn_Damaged_Full.png"
+	},
+	{
+		"ship": "San Juan",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/7/74/SanJuan_Full.png"
+	},
+	{
+		"ship": "San Juan",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/e/e3/SanJuan_Damaged_Full.png"
+	},
+	{
+		"ship": "Oakland",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/3/30/Oakland_Full.png"
+	},
+	{
+		"ship": "Oakland",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/f/fe/Oakland_Damaged_Full.png"
+	},
+	{
+		"ship": "Oakland",
+		"skin": "Black Cat",
+		"link": "https://static.miraheze.org/blueoathwiki/2/23/Oakland_2_Full.png"
+	},
+	{
+		"ship": "Oakland",
+		"skin": "Lunar New Year Skin",
+		"link": "https://static.miraheze.org/blueoathwiki/1/17/Oakland_7_Full.png"
+	},
+	{
+		"ship": "Cleveland",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/3/3d/Cleveland_Full.png"
+	},
+	{
+		"ship": "Cleveland",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/6/64/Cleveland_Damaged_Full.png"
+	},
+	{
+		"ship": "Cleveland",
+		"skin": "Class Thug",
+		"link": "https://static.miraheze.org/blueoathwiki/c/ce/Cleveland_School_Full.png"
+	},
+	{
+		"ship": "Sendai",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/d/d5/Sendai_Full.png"
+	},
+	{
+		"ship": "Sendai",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/1/12/Sendai_Damaged_Full.png"
+	},
+	{
+		"ship": "Jintsuu",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/5/5e/Jintsuu_Full.png"
+	},
+	{
+		"ship": "Jintsuu",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/5/54/Jintsuu_Damaged_Full.png"
+	},
+	{
+		"ship": "Jintsuu",
+		"skin": "Exposed Thoughts",
+		"link": "https://static.miraheze.org/blueoathwiki/d/d3/Jintsuu_2_Full.png"
+	},
+	{
+		"ship": "Tenryuu",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/f/f7/Tenryuu_Full.png"
+	},
+	{
+		"ship": "Tenryuu",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/f/fb/Tenryuu_Damaged_Full.png"
+	},
+	{
+		"ship": "Arethusa",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/6/6d/Arethusa_Full.png"
+	},
+	{
+		"ship": "Arethusa",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/7/78/Arethusa_Damaged_Full.png"
+	},
+	{
+		"ship": "Königsberg",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/c/c4/Konigsberg_Full.png"
+	},
+	{
+		"ship": "Königsberg",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/5/59/Konigsberg_Damaged_Full.png"
+	},
+	{
+		"ship": "Karlsruhe",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/3/34/Karlsruhe_Full.png"
+	},
+	{
+		"ship": "Karlsruhe",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/b/b7/Karlsruhe_Damaged_Full.png"
+	},
+	{
+		"ship": "Köln",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/e/ee/Koln_Full.png"
+	},
+	{
+		"ship": "Köln",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/9/93/Koln_Damaged_Full.png"
+	},
+	{
+		"ship": "Gridley",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/8/8e/Gridley_Full.png"
+	},
+	{
+		"ship": "Gridley",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/a/a3/Gridley_Damaged_Full.png"
+	},
+	{
+		"ship": "Craven",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/2/20/Craven_Full.png"
+	},
+	{
+		"ship": "Craven",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/a/a8/Craven_Damaged_Full.png"
+	},
+	{
+		"ship": "McCall",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/b/b8/McCall_Full.png"
+	},
+	{
+		"ship": "McCall",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/9/95/McCall_Damaged_Full.png"
+	},
+	{
+		"ship": "Maury",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/8/8c/Maury_Full.png"
+	},
+	{
+		"ship": "Maury",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/6/60/Maury_Damaged_Full.png"
+	},
+	{
+		"ship": "Fubuki",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/d/da/Fubuki_Full.png"
+	},
+	{
+		"ship": "Fubuki",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/8/8f/Fubuki_Damaged_Full.png"
+	},
+	{
+		"ship": "Fubuki",
+		"skin": "CNY Skin",
+		"link": "https://static.miraheze.org/blueoathwiki/e/e2/Fubuki_7_Full.png"
+	},
+	{
+		"ship": "Fubuki",
+		"skin": "Prerelease Art",
+		"link": "https://static.miraheze.org/blueoathwiki/9/9e/Fubuki_B_Full.png"
+	},
+	{
+		"ship": "Yuudachi",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/b/bb/Yuudachi_Full.png"
+	},
+	{
+		"ship": "Yuudachi",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/9/9a/Yuudachi_Damaged_Full.png"
+	},
+	{
+		"ship": "Yuudachi",
+		"skin": "Cutie Bunny",
+		"link": "https://static.miraheze.org/blueoathwiki/e/ec/Yuudachi_2_Full.png"
+	},
+	{
+		"ship": "Glowworm",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/0/09/Glowworm_Full.png"
+	},
+	{
+		"ship": "Glowworm",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/0/02/Glowworm_Damaged_Full.png"
+	},
+	{
+		"ship": "Glowworm",
+		"skin": "Freshman",
+		"link": "https://static.miraheze.org/blueoathwiki/4/43/Glowworm_School_Full.png"
+	},
+	{
+		"ship": "Glowworm",
+		"skin": "Full Retrofit Art",
+		"link": "https://static.miraheze.org/blueoathwiki/b/b3/Glowworm_Retrofit_Full.png"
+	},
+	{
+		"ship": "Z1",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/a/af/Z1_Full.png"
+	},
+	{
+		"ship": "Z1",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/e/e2/Z1_Damaged_Full.png"
+	},
+	{
+		"ship": "Z16",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/f/f9/Z16_Full.png"
+	},
+	{
+		"ship": "Z16",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/a/a9/Z16_Damaged_Full.png"
+	},
+	{
+		"ship": "Z23",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/0/09/Z23_Full.png"
+	},
+	{
+		"ship": "Z23",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/6/6b/Z23_Damaged_Full.png"
+	},
+	{
+		"ship": "Foch",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/c/cd/Foch_Full.png"
+	},
+	{
+		"ship": "Foch",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/6/63/Foch_Damaged_Full.png"
+	},
+	{
+		"ship": "Pennsylvania",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/7/75/Pennsylvania_Full.png"
+	},
+	{
+		"ship": "Pennsylvania",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/3/34/Pennsylvania_Damaged_Full.png"
+	},
+	{
+		"ship": "Pennsylvania",
+		"skin": "Full Retrofit Art",
+		"link": "https://static.miraheze.org/blueoathwiki/9/95/Pennsylvania_Retrofit_Full.png"
+	},
+	{
+		"ship": "Pennsylvania",
+		"skin": "Ebony Dew",
+		"link": "https://static.miraheze.org/blueoathwiki/f/f0/Pennsylvania_10_Full.png"
+	},
+	{
+		"ship": "Arizona",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/6/6d/Arizona_Full.png"
+	},
+	{
+		"ship": "Arizona",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/6/67/Arizona_Damaged_Full.png"
+	},
+	{
+		"ship": "Arizona",
+		"skin": "Full Retrofit Art",
+		"link": "https://static.miraheze.org/blueoathwiki/6/61/Arizona_Retrofit_Full.png"
+	},
+	{
+		"ship": "Arizona",
+		"skin": "Ebony Flower",
+		"link": "https://static.miraheze.org/blueoathwiki/f/fa/Arizona_10_Full.png"
+	},
+	{
+		"ship": "Colorado",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/a/ab/Colorado_Full.png"
+	},
+	{
+		"ship": "Colorado",
+		"skin": "Full Damaged Art"
+	},
+	{
+		"ship": "Maryland",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/9/9e/Maryland_Full.png"
+	},
+	{
+		"ship": "Maryland",
+		"skin": "Full Damaged Art"
+	},
+	{
+		"ship": "West Virginia",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/0/03/WestVirginia_Full.png"
+	},
+	{
+		"ship": "West Virginia",
+		"skin": "Full Damaged Art"
+	},
+	{
+		"ship": "New Mexico",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/a/aa/NewMexico_Full.png"
+	},
+	{
+		"ship": "New Mexico",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/1/16/NewMexico_Damaged_Full.png"
+	},
+	{
+		"ship": "Le Fantasque",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/e/e9/LeFantasque_Full.png"
+	},
+	{
+		"ship": "Le Fantasque",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/4/4b/LeFantasque_Damaged_Full.png"
+	},
+	{
+		"ship": "Artigliere",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/f/fa/Artigliere_Full.png"
+	},
+	{
+		"ship": "Artigliere",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/d/da/Artigliere_Damaged_Full.png"
+	},
+	{
+		"ship": "Alaska",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/6/61/Alaska_Full.png"
+	},
+	{
+		"ship": "Alaska",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/9/95/Alaska_Damaged_Full.png"
+	},
+	{
+		"ship": "Hatsuharu",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/8/82/Hatsuharu_Full.png"
+	},
+	{
+		"ship": "Hatsuharu",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/a/ae/Hatsuharu_Damaged_Full.png"
+	},
+	{
+		"ship": "Illustrious",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/7/73/Illustrious_Full.png"
+	},
+	{
+		"ship": "Illustrious",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/4/42/Illustrious_Damaged_Full.png"
+	},
+	{
+		"ship": "Helena",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/f/f8/Helena_Full.png"
+	},
+	{
+		"ship": "Helena",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/f/fa/Helena_Damaged_Full.png"
+	},
+	{
+		"ship": "Helena",
+		"skin": "Helena on the Beach",
+		"link": "https://static.miraheze.org/blueoathwiki/7/75/Helena_2_Full.png"
+	},
+	{
+		"ship": "North Carolina",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/e/e4/NorthCarolina_Full.png"
+	},
+	{
+		"ship": "North Carolina",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/7/73/NorthCarolina_Damaged_Full.png"
+	},
+	{
+		"ship": "North Carolina",
+		"skin": "Full Retrofit Art",
+		"link": "https://static.miraheze.org/blueoathwiki/5/52/NorthCarolina_Retrofit_Full.png"
+	},
+	{
+		"ship": "North Carolina",
+		"skin": "The Classy Witch",
+		"link": "https://static.miraheze.org/blueoathwiki/d/d1/NorthCarolina_4_Full.png"
+	},
+	{
+		"ship": "North Carolina",
+		"skin": "Autumn Skin",
+		"link": "https://static.miraheze.org/blueoathwiki/4/4f/NorthCarolina_8_Full.png"
+	},
+	{
+		"ship": "Andrea Doria",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/9/9d/AndreaDoria_Full.png"
+	},
+	{
+		"ship": "Andrea Doria",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/3/39/AndreaDoria_Damaged_Full.png"
+	},
+	{
+		"ship": "Saumarez",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/e/e9/Saumarez_Full.png"
+	},
+	{
+		"ship": "Saumarez",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/3/3b/Saumarez_Damaged_Full.png"
+	},
+	{
+		"ship": "Samuel B. Roberts",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/b/b4/SamuelBRoberts_Full.png"
+	},
+	{
+		"ship": "Samuel B. Roberts",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/4/49/SamuelBRoberts_Damaged_Full.png"
+	},
+	{
+		"ship": "Samuel B. Roberts",
+		"skin": "Fragrance of a Refined Lady",
+		"link": "https://static.miraheze.org/blueoathwiki/0/0a/SamuelBRoberts_7_Full.png"
+	},
+	{
+		"ship": "Savage",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/d/d1/Savage_Full.png"
+	},
+	{
+		"ship": "Savage",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/2/24/Savage_Damaged_Full.png"
+	},
+	{
+		"ship": "Savage",
+		"skin": "Cat Playing with Water",
+		"link": "https://static.miraheze.org/blueoathwiki/4/40/Savage_2_Full.png"
+	},
+	{
+		"ship": "Alabama",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/4/44/Alabama_Full.png"
+	},
+	{
+		"ship": "Alabama",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/c/ca/Alabama_Damaged_Full.png"
+	},
+	{
+		"ship": "Algerie",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/d/d2/Algerie_Full.png"
+	},
+	{
+		"ship": "Algerie",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/f/f4/Algerie_Damaged_Full.png"
+	},
+	{
+		"ship": "Zuikaku",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/5/5c/Zuikaku_Full.png"
+	},
+	{
+		"ship": "Zuikaku",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/f/fa/Zuikaku_Damaged_Full.png"
+	},
+	{
+		"ship": "Zuikaku",
+		"skin": "Reindeer Zuikaku",
+		"link": "https://static.miraheze.org/blueoathwiki/5/57/Zuikaku_5_Full.png"
+	},
+	{
+		"ship": "Volta",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/c/cc/Volta_Full.png"
+	},
+	{
+		"ship": "Volta",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/3/34/Volta_Damaged_Full.png"
+	},
+	{
+		"ship": "Maxim Gorky",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/8/86/MaximGorky_Full.png"
+	},
+	{
+		"ship": "Maxim Gorky",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/4/4b/MaximGorky_Damaged_Full.png"
+	},
+	{
+		"ship": "Atago",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/a/aa/Atago_Full.png"
+	},
+	{
+		"ship": "Atago",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/9/9c/Atago_Damaged_Full.png"
+	},
+	{
+		"ship": "Takao",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/f/ff/Takao_Full.png"
+	},
+	{
+		"ship": "Takao",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/2/2b/Takao_Damaged_Full.png"
+	},
+	{
+		"ship": "Jervis",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/c/cd/Jervis_Full.png"
+	},
+	{
+		"ship": "Jervis",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/a/a9/Jervis_Damaged_Full.png"
+	},
+	{
+		"ship": "Franklin",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/2/20/Franklin_Full.png"
+	},
+	{
+		"ship": "Franklin",
+		"skin": "Full Damaged Art"
+	},
+	{
+		"ship": "Nelson",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/1/15/Nelson_Full.png"
+	},
+	{
+		"ship": "Nelson",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/b/be/Nelson_Damaged_Full.png"
+	},
+	{
+		"ship": "Molotov",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/7/73/Molotov_Full.png"
+	},
+	{
+		"ship": "Molotov",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/2/2c/Molotov_Damaged_Full.png"
+	},
+	{
+		"ship": "Admiral Hipper",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/3/30/AdmiralHipper_Full.png"
+	},
+	{
+		"ship": "Admiral Hipper",
+		"skin": "Full Damaged Art"
+	},
+	{
+		"ship": "Prince of Wales",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/7/79/Wales_Full.png"
+	},
+	{
+		"ship": "Prince of Wales",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/0/08/Wales_Damaged_Full.png"
+	},
+	{
+		"ship": "Ning Hai",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/1/1f/NingHai_Full.png"
+	},
+	{
+		"ship": "Ning Hai",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/8/8d/NingHai_Damaged_Full.png"
+	},
+	{
+		"ship": "Ping Hai",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/a/aa/PingHai_Full.png"
+	},
+	{
+		"ship": "Ping Hai",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/c/cc/PingHai_Damaged_Full.png"
+	},
+	{
+		"ship": "Shoukaku",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/c/c8/Shoukaku_Full.png"
+	},
+	{
+		"ship": "Shoukaku",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/6/6b/Shoukaku_Damaged_Full.png"
+	},
+	{
+		"ship": "Shoukaku",
+		"skin": "Husky Shoukaku",
+		"link": "https://static.miraheze.org/blueoathwiki/4/4f/Shoukaku_5_Full.png"
+	},
+	{
+		"ship": "Rodney",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/0/07/Rodney_Full.png"
+	},
+	{
+		"ship": "Rodney",
+		"skin": "Full Damaged Art"
+	},
+	{
+		"ship": "Belfast",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/a/a0/Belfast_Full.png"
+	},
+	{
+		"ship": "Belfast",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/f/f7/Belfast_Damaged_Full.png"
+	},
+	{
+		"ship": "Myoukou",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/8/8b/Myoukou_Full.png"
+	},
+	{
+		"ship": "Myoukou",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/2/29/Myoukou_Damaged_Full.png"
+	},
+	{
+		"ship": "Myoukou",
+		"skin": "Chinese New Year",
+		"link": "https://static.miraheze.org/blueoathwiki/3/38/Myoukou_7_Full.png"
+	},
+	{
+		"ship": "Ooi",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/8/89/Ooi_Full.png"
+	},
+	{
+		"ship": "Ooi",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/7/70/Ooi_Damaged_Full.png"
+	},
+	{
+		"ship": "Kitakami",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/7/73/Kitakami_Full.png"
+	},
+	{
+		"ship": "Kitakami",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/0/0d/Kitakami_Damaged_Full.png"
+	},
+	{
+		"ship": "Red",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/2/23/Red_Full.png"
+	},
+	{
+		"ship": "Red",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/d/d5/Red_Damaged_Full.png"
+	},
+	{
+		"ship": "Wichita",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/5/5e/Wichita_Full.png"
+	},
+	{
+		"ship": "Wichita",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/6/63/Wichita_Damaged_Full.png"
+	},
+	{
+		"ship": "Kongou",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/4/4c/Kongou_Full.png"
+	},
+	{
+		"ship": "Kongou",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/6/6d/Kongou_Damaged_Full.png"
+	},
+	{
+		"ship": "Tone",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/1/1f/Tone_Full.png"
+	},
+	{
+		"ship": "Tone",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/3/33/Tone_Damaged_Full.png"
+	},
+	{
+		"ship": "King George V",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/a/a3/GeorgeV_Full.png"
+	},
+	{
+		"ship": "King George V",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/4/4b/GeorgeV_Damaged_Full.png"
+	},
+	{
+		"ship": "Strasbourg",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/4/48/Strasbourg_Full.png"
+	},
+	{
+		"ship": "Strasbourg",
+		"skin": "Full Damaged Art"
+	},
+	{
+		"ship": "Hoel",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/e/e1/Hoel_Full.png"
+	},
+	{
+		"ship": "Hoel",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/1/11/Hoel_Damaged_Full.png"
+	},
+	{
+		"ship": "Hoel",
+		"skin": "Holy Night Adventure",
+		"link": "https://static.miraheze.org/blueoathwiki/f/f7/Hoel_5_Full.png"
+	},
+	{
+		"ship": "Johnston",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/0/03/Johnston_Full.png"
+	},
+	{
+		"ship": "Johnston",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/f/f4/Johnston_Damaged_Full.png"
+	},
+	{
+		"ship": "Heermann",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/3/37/Heermann_Full.png"
+	},
+	{
+		"ship": "Heermann",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/9/92/Heermann_Damaged_Full.png"
+	},
+	{
+		"ship": "Admiral Graf Spee",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/7/7c/AdmiralGrafSpee_Full.png"
+	},
+	{
+		"ship": "Admiral Graf Spee",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/0/01/AdmiralGrafSpee_Damaged_Full.png"
+	},
+	{
+		"ship": "Hiei",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/1/1e/Hiei_Full.png"
+	},
+	{
+		"ship": "Hiei",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/7/77/Hiei_Damaged_Full.png"
+	},
+	{
+		"ship": "Zara",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/6/6e/Zara_Full.png"
+	},
+	{
+		"ship": "Zara",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/e/e2/Zara_Damaged_Full.png"
+	},
+	{
+		"ship": "Hermes",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/b/b9/Hermes_Full.png"
+	},
+	{
+		"ship": "Hermes",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/6/68/Hermes_Damaged_Full.png"
+	},
+	{
+		"ship": "Sparviero",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/4/4e/Sparviero_Full.png"
+	},
+	{
+		"ship": "Sparviero",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/7/7d/Sparviero_Damaged_Full.png"
+	},
+	{
+		"ship": "South Dakota",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/2/2e/SouthDakota_Full.png"
+	},
+	{
+		"ship": "South Dakota",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/4/44/SouthDakota_Damaged_Full.png"
+	},
+	{
+		"ship": "Z39",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/e/ef/Z39_Full.png"
+	},
+	{
+		"ship": "Z39",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/9/92/Z39_Damaged_Full.png"
+	},
+	{
+		"ship": "Graf Zeppelin",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/6/6f/GrafZeppelin_Full.png"
+	},
+	{
+		"ship": "Graf Zeppelin",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/8/8a/GrafZeppelin_Damaged_Full.png"
+	},
+	{
+		"ship": "Yavuz Sultan Selim",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/9/94/Yavuz_Sultan_Selim_Full.png"
+	},
+	{
+		"ship": "Yavuz Sultan Selim",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/8/89/Yavuz_Sultan_Selim_Damaged_Full.png"
+	},
+	{
+		"ship": "Laffey",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/e/e8/Laffey_Full.png"
+	},
+	{
+		"ship": "Laffey",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/9/9a/Laffey_Damaged_Full.png"
+	},
+	{
+		"ship": "Naka",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/c/c1/Naka_Full.png"
+	},
+	{
+		"ship": "Naka",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/c/cd/Naka_Damaged_Full.png"
+	},
+	{
+		"ship": "Yukikaze",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/9/90/Yukikaze_Full.png"
+	},
+	{
+		"ship": "Yukikaze",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/6/63/Yukikaze_Damaged_Full.png"
+	},
+	{
+		"ship": "Nagato",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/2/2c/Nagato_Full.png"
+	},
+	{
+		"ship": "Nagato",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/e/ef/Nagato_Damaged_Full.png"
+	},
+	{
+		"ship": "Ayanami",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/c/c1/Ayanami_Full.png"
+	},
+	{
+		"ship": "Ayanami",
+		"skin": "Full Damaged Art"
+	},
+	{
+		"ship": "Reisalin Stout",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/6/6e/ReisalinStout_Full.png"
+	},
+	{
+		"ship": "Reisalin Stout",
+		"skin": "Sunlight Flower",
+		"link": "https://static.miraheze.org/blueoathwiki/d/dd/ReisalinStout_2_Full.png"
+	},
+	{
+		"ship": "Ryza: Divertimento's Embrace",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/d/df/RyzaEmbrace_Full.png"
+	},
+	{
+		"ship": "Ryza: Divertimento's Embrace",
+		"skin": "Sunlight Flower",
+		"link": "https://static.miraheze.org/blueoathwiki/d/dd/ReisalinStout_2_Full.png"
+	},
+	{
+		"ship": "Washington",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/4/45/Washington_Full.png"
+	},
+	{
+		"ship": "Washington",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/e/e4/Washington_Damaged_Full.png"
+	},
+	{
+		"ship": "Vanguard",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/a/a4/Vanguard_Full.png"
+	},
+	{
+		"ship": "Vanguard",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/a/a3/Vanguard_Damaged_Full.png"
+	},
+	{
+		"ship": "Kirov",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/9/96/Kirov_Full.png"
+	},
+	{
+		"ship": "Kirov",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/d/de/Kirov_Damaged_Full.png"
+	},
+	{
+		"ship": "Fiume",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/f/ff/Fiume_Full.png"
+	},
+	{
+		"ship": "Fiume",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/d/df/Fiume_Damaged_Full.png"
+	},
+	{
+		"ship": "Mutsu",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/d/de/Mutsu_Full.png"
+	},
+	{
+		"ship": "Mutsu",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/2/25/Mutsu_Damaged_Full.png"
+	},
+	{
+		"ship": "Duke of York",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/1/16/Duke_of_York_Full.png"
+	},
+	{
+		"ship": "Duke of York",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/8/84/Duke_of_York_Damaged_Full.png"
+	},
+	{
+		"ship": "Howe",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/7/78/Howe_Full.png"
+	},
+	{
+		"ship": "Howe",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/1/18/Howe_Damaged_Full.png"
+	},
+	{
+		"ship": "Trento",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/e/e8/Trento_Full.png"
+	},
+	{
+		"ship": "Trento",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/7/74/Trento_Damaged_Full.png"
+	},
+	{
+		"ship": "Ryuujou",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/8/81/Ryuujou_Full.png"
+	},
+	{
+		"ship": "Ryuujou",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/9/9b/Ryuujou_Damaged_Full.png"
+	},
+	{
+		"ship": "Taihou",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/9/9b/Taihou_Full.png"
+	},
+	{
+		"ship": "Taihou",
+		"skin": "Full Damaged Art"
+	},
+	{
+		"ship": "Le Terrible",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/d/d4/Le_Terrible_Full.png"
+	},
+	{
+		"ship": "Le Terrible",
+		"skin": "Full Damaged Art"
+	},
+	{
+		"ship": "Le Malin",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/6/6a/Le_Malin_Full.png"
+	},
+	{
+		"ship": "Le Malin",
+		"skin": "Full Damaged Art"
+	},
+	{
+		"ship": "Maya",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/b/b6/Maya_Full.png"
+	},
+	{
+		"ship": "Maya",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/f/f9/Maya_Damaged_Full.png"
+	},
+	{
+		"ship": "Ise",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/4/48/Ise_Full.png"
+	},
+	{
+		"ship": "Ise",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/d/d6/Ise_Damaged_Full.png"
+	},
+	{
+		"ship": "Ise",
+		"skin": "Artist Draft",
+		"link": "https://static.miraheze.org/blueoathwiki/0/08/Ise_Draft_Full.jpg"
+	},
+	{
+		"ship": "Hyuuga",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/7/7f/Hyuuga_Full.png"
+	},
+	{
+		"ship": "Hyuuga",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/6/6d/Hyuuga_Damaged_Full.png"
+	},
+	{
+		"ship": "Hyuuga",
+		"skin": "Artist Draft",
+		"link": "https://static.miraheze.org/blueoathwiki/b/b8/Hyuuga_Draft_Full.jpg"
+	},
+	{
+		"ship": "Maya",
+		"skin": "Full Art",
+		"link": "https://static.miraheze.org/blueoathwiki/b/b6/Maya_Full.png"
+	},
+	{
+		"ship": "Maya",
+		"skin": "Full Damaged Art",
+		"link": "https://static.miraheze.org/blueoathwiki/f/f9/Maya_Damaged_Full.png"
+	}
+]
