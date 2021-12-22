@@ -209,6 +209,7 @@ var KC_list = []
 var error_list = []
 var BO_list = []
 var WG_list = []
+var BG_list = []
 
 function KCWikiPageFileCrawl(data, entry) {
     $ = cheerio.load(data)
@@ -376,6 +377,43 @@ async function crawlCG4WarshipGirl() {
     console.log('done.')
 }
 
+async function crawlCG4BattleshipGirl() {
+    let input = require("./BG_cg_crawl_list.json")
+    for (let i = 0; i < input.length; i++) {
+        console.log(`current progress: ${i * 100 / input.length}% - at ${i + 1}/${input.length}`)
+        const filename = (input[i].name + "_" + input[i].skin + ".jpg").replace(/[\\\/\:\*\?\"\<\>\|]/g, "")
+        if (!input[i].link) {
+            console.log('no link found, skip ' + filename)
+            continue
+        }
+        const url = input[i].link
+        if (fs.existsSync('./output/' + filename)) {
+            console.log('already downloaded, skip ' + filename)
+            continue
+        }
+        let err = ""
+        let res = await downloadFile(url, './output/' + filename).catch((e) => {err = e})
+        if (err) { console.log('error download ' + filename + ' : ' + err); continue }
+        console.log('downloaded ' + filename)
+        await sleep(2000)
+    }
+    console.log('done.')
+}
+
+async function BGCGPageFileCraw(data) {
+    $ = cheerio.load(data)
+
+    const ship_name = $('p > .tc > strong').text()
+
+    $('article > p > a > img').map((index, el) =>  {
+        const attributes = el.attribs
+        const skin = (index === 0) ? "base" : "damaged" 
+        const link = attributes.src.replace('_S.jpg', '.jpg')
+        console.log({name: ship_name, skin: skin, link: link})
+        BG_list.push({name: ship_name, skin: skin, link: link})
+    })
+}
+
 async function main2() {
     // $ = cheerio.load(fs.readFileSync('./KCshiplist.html'))
     // getKanColleShipList()
@@ -451,7 +489,25 @@ async function main2() {
     // fs.writeFileSync('WG_cg_crawl_list.json', JSON.stringify(WG_list, null, '\t'), {encoding: 'utf-8'})
     // fs.writeFileSync('WG_cg_crawl_error.json', JSON.stringify(error_list, null, '\t'), {encoding: 'utf-8'})
 
-    crawlCG4WarshipGirl()
+    // for (let  i = 1; i <= 148; i++) { 
+    //     console.log(`(${i}/${148})`)
+    //     let append_page = (i === 1) ? "" : "_" + i
+    //     let res = await axios.get(`https://wap.gamersky.com/sygl/Content-722604${append_page}.html`)
+    //     if (res && (res.status !== 404 || res.status !== 500)) {
+    //         BGCGPageFileCraw(res.data)
+    //         await sleep(1000)
+    //     }
+    //     else {
+    //         console.log(`error in requesting page, skipping ${i}`)
+    //         await sleep(1000)
+    //     }
+    // }
+    // fs.writeFileSync('BG_cg_crawl_list.json', JSON.stringify(BG_list, null, '\t'), {encoding: 'utf-8'})
+
+    //BGCGPageFileCraw(fs.readFileSync('BGCGcrawl_sample.html'))
+    //crawlCG4WarshipGirl()
+
+    crawlCG4BattleshipGirl()
 }
 
 main2()
