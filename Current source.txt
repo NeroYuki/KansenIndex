@@ -1,24 +1,29 @@
 game with ship girl
 
 Warship Girls R: https://warship-girls.fandom.com/wiki/List_of_Warship_Girls
+(https://www.zjsnrwiki.com/wiki/%E8%88%B0%E5%A8%98%E5%9B%BE%E9%89%B4 Better source but how do i crawl this?)
 Kantai Collection: https://en.kancollewiki.net/Ship_List_(Image)
-Azur Lane: https://azurlane.koumakan.jp/wiki/List_of_Ships_by_Image
+Azur Lane: https://azurlane.koumakan.jp/wiki/List_of_Ships_by_Image (they ban crawling here so i use https://github.com/AzurAPI/azurapi-js instead)
 Abyss Horizon: https://abysshorizon.fandom.com/wiki/List_of_Naval_Belles (dead)
 Victory Belles: https://victorybelles.fandom.com/wiki/Category:Belles (currently beta)
 Blue Oath: https://blueoath.miraheze.org/wiki/Senki
 Arpeggio of Blue Steel: https://aokihagane.fandom.com/wiki/Category:Characters (dead)
-Black Surge Nights: https://darkboom.miraheze.org/wiki/Dolls
+Black Surgenights: https://darkboom.miraheze.org/wiki/Dolls
 Guardian Project: https://appmedia.jp/guardianproject/3494986 (JP)
 Lane Girls / Warship Hime: https://web.archive.org/web/20181120080121/http://enjj.yahgame.com/ (dead)
 (additional resource: https://zh.wikipedia.org/wiki/%E8%88%B0%E5%A7%AC (ZH))
 (additional resource: https://twitter.com/LSenkan/media)
 (additional resource: https://jnsama.fandom.com/zh/wiki/%E4%BA%BA%E5%BD%A2%E6%88%B0%E8%89%A6%E5%9C%96%E9%91%91)
+Velvet Code: https://vc.gamehours.jp/ (temporally)
+https://www.latestappgames.com/article/velvet-code-to-release-in-japan-this-winter-anime-characters-and-battleships.html (meh)
+(sligtly better source - still missing a bunch: https://wiki.biligame.com/fxslzk/%E9%A6%96%E9%A1%B5)
 
 
 we are neck deep in mud now
-Battleship Girl -鋼鐵少女: https://ja.wikipedia.org/wiki/Battleship_Girl_-%E9%8B%BC%E9%89%84%E5%B0%91%E5%A5%B3- (JP)
+Battleship Girl -鋼鐵少女: https://ja.wikipedia.org/wiki/Battleship_Girl_-%E9%8B%BC%E9%89%84%E5%B0%91%E5%A5%B3- (JP - dead)
 (Actual source: https://wikiwiki.jp/bsg/%E8%83%A1%EE%87%95%28%E3%83%95%E3%83%83%E3%83%89%29)
 (Better source: https://wap.gamersky.com/sygl/Content-722604.html)
 Moe Moe World War II part 2: https://wiki.komica.org/%E8%90%8C%E3%81%88%E8%90%8C%E3%81%882%E6%AC%A1%E5%A4%A7%E6%88%A6%EF%BC%88%E7%95%A5%EF%BC%89 (JP)
 MC☆あくしず: https://ja.wikipedia.org/wiki/MC%E2%98%86%E3%81%82%E3%81%8F%E3%81%97%E3%81%9A (JP - dunno if it even qualified)
+Axis Senki (あくしず戦姫攻略): https://axis-senki.gamerch.com/ (secondary source from game's twitter announcement, poor quality)
 Deep Sea Desire (深海禁慾): (Extract CG from game file - H-game omegaLUL)

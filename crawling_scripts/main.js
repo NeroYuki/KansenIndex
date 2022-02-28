@@ -41,7 +41,7 @@ function sleep(ms) {
 }
 
 async function main() {
-    let input = require('./cg_crawl_list.json')
+    let input = require('./AL_cg_crawl_list_new.json')
     for (let i = 0; i < input.length; i++) {
         console.log(`current progress: ${i * 100 / input.length}% - at ${i + 1}/${input.length}`)
         const url = input[i].url
@@ -58,7 +58,7 @@ async function main() {
     }
     console.log('done.')
 }
-
+ 
 // main()
 
 // axios.get("https://darkboom.miraheze.org/w/index.php?title=Special:MIMESearch&limit=500&offset=500&mime=image%2F%2A", {}).then(
@@ -414,6 +414,77 @@ async function BGCGPageFileCraw(data) {
     })
 }
 
+
+async function WG_CNWikiIterateGallery() {
+    //FILENAME STRUCTURE: L_<NORMAL/BROKEN>_<SHIP_ID>[_<SKIN_ID>]
+    let isBroken = false
+    let shipId = 1
+    let skinId = 0 
+
+    let res = []
+
+    const lastShipId = 505
+    //const url = "https://www.zjsnrwiki.com/wiki/%E6%96%87%E4%BB%B6:L_NORMAL_1.png"
+
+    //TODO: iterate thisssssss
+
+    try {
+        while (shipId <= lastShipId) {
+            let err = null
+
+            console.log(`currently checking ship id ${shipId} - skin id ${skinId} - ${(isBroken)? "Damage variant" : "Normal variant"}`)
+
+            const url = `https://www.zjsnrwiki.com/wiki/%E6%96%87%E4%BB%B6:L_${(isBroken)? "BROKEN" : "NORMAL"}_${shipId}${(skinId === 0)? "" : "_" + skinId}.png`
+            console.log('trying ' + url)
+
+            let page_res = await axios.get(url).catch((e) => err = e)
+            if (err) {
+                console.log("[x] no image found, go to new ship...")
+                await sleep(1000)
+
+                if (skinId > 0) skinId = 0
+                if (isBroken) isBroken = false
+
+                shipId += 1
+            }
+            else if (page_res) {
+                const data = page_res.data
+                $ = cheerio.load(data)
+
+                $('.fullMedia > p > a' ).map((index, el) => {
+                    const attributes = el.attribs;
+                    res.push({url: attributes.href, filename: attributes.title})
+                })
+                await sleep(1000)
+
+                if (isBroken) {
+                    isBroken = false
+                    skinId += 1
+                }
+                else {
+                    isBroken = true
+                }
+            }
+            else {
+                console.log(`[x] error in requesting page,  go to new ship...`)
+                await sleep(1000)
+
+                if (skinId > 0) skinId = 0
+                if (isBroken) isBroken = false
+
+                shipId += 1
+            }
+        }
+    }
+    catch (err) {
+        console.log('unindentified error happened, exiting...')
+    }
+
+    fs.writeFileSync('WG_cg_crawl_list_new.json', JSON.stringify(res, null, '\t'), {encoding: 'utf-8'})
+
+    console.log(res)
+}
+
 async function main2() {
     // $ = cheerio.load(fs.readFileSync('./KCshiplist.html'))
     // getKanColleShipList()
@@ -423,17 +494,22 @@ async function main2() {
     // $ = cheerio.load(fs.readFileSync('./BOshiplist.html'))
     // getBlueOathShipList()
     // ALWikiPageFileCrawl()
-    // let data = require('./AL_ships.json')
+    // let data = require('./AL_ships_v2.json')
+    // let original_data = require('./cg_crawl_list.json')
     // //console.log(data.length)
     // let res = []
     // data.forEach((ship) => {
     //     ship.skins.forEach((skin) => {
+    //         if (original_data.findIndex((entry) => (ship.names.en === entry.ship && skin.name === entry.skin)) !== -1) {
+    //             return
+    //         }
+    //         else {console.log(`new cg found for: ${ship.names.en} - ${skin.name}`)}
     //         res.push({ship: ship.names.en, skin: skin.name, filename: `${ship.names.en}_${skin.name}.png`, url: skin.image})
     //         if (skin.cn) res.push({ship: ship.names.en, skin: skin.name, filename: `${ship.names.en}_${skin.name}_cn.png`, url: skin.cn})
     //         if (skin.bg) res.push({ship: ship.names.en, skin: skin.name, filename: `${ship.names.en}_${skin.name}_bg.png`, url: skin.bg})
     //     })
     // })
-    // fs.writeFileSync('cg_crawl_list.json', JSON.stringify(res, null, '\t'), {encoding: 'utf-8'})
+    // fs.writeFileSync('AL_cg_crawl_list_new.json', JSON.stringify(res, null, '\t'), {encoding: 'utf-8'})
 
     // const KC_char_map = require('./KC_char_map.json')
     // for (let  i = 0; i < KC_char_map.length; i++) { 
@@ -507,7 +583,9 @@ async function main2() {
     //BGCGPageFileCraw(fs.readFileSync('BGCGcrawl_sample.html'))
     //crawlCG4WarshipGirl()
 
-    crawlCG4BattleshipGirl()
+    //crawlCG4BattleshipGirl()
+
+    WG_CNWikiIterateGallery()
 }
 
 main2()
