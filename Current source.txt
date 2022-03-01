@@ -5,6 +5,7 @@ Warship Girls R: https://warship-girls.fandom.com/wiki/List_of_Warship_Girls
 Kantai Collection: https://en.kancollewiki.net/Ship_List_(Image)
 Azur Lane: https://azurlane.koumakan.jp/wiki/List_of_Ships_by_Image (they ban crawling here so i use https://github.com/AzurAPI/azurapi-js instead)
 Abyss Horizon: https://abysshorizon.fandom.com/wiki/List_of_Naval_Belles (dead)
+https://wikiwiki.jp/abyss-hz/%E3%83%AC%E3%82%A2%E9%A0%86 (alt source)
 Victory Belles: https://victorybelles.fandom.com/wiki/Category:Belles (currently beta)
 Blue Oath: https://blueoath.miraheze.org/wiki/Senki
 Arpeggio of Blue Steel: https://aokihagane.fandom.com/wiki/Category:Characters (dead)
@@ -27,3 +28,4 @@ Moe Moe World War II part 2: https://wiki.komica.org/%E8%90%8C%E3%81%88%E8%90%8C
 MC☆あくしず: https://ja.wikipedia.org/wiki/MC%E2%98%86%E3%81%82%E3%81%8F%E3%81%97%E3%81%9A (JP - dunno if it even qualified)
 Axis Senki (あくしず戦姫攻略): https://axis-senki.gamerch.com/ (secondary source from game's twitter announcement, poor quality)
 Deep Sea Desire (深海禁慾): (Extract CG from game file - H-game omegaLUL)
+Warship Collection (舰姬收藏): https://newgame.17173.com/game-info-1000666.html 

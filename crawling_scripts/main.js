@@ -423,10 +423,17 @@ async function WG_CNWikiIterateGallery() {
 
     let res = []
 
-    const lastShipId = 505
+    const lastShipId = 50
     //const url = "https://www.zjsnrwiki.com/wiki/%E6%96%87%E4%BB%B6:L_NORMAL_1.png"
 
     //TODO: iterate thisssssss
+
+    process.on('SIGINT', () => {
+        console.log('process interupted, logging current result...')
+        fs.writeFileSync('WG_cg_crawl_list_new.json', JSON.stringify(res, null, '\t'), {encoding: 'utf-8'})
+        console.log('Done, exiting')
+        process.exit(0);
+    })
 
     try {
         while (shipId <= lastShipId) {
