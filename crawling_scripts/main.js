@@ -40,27 +40,6 @@ function sleep(ms) {
     });
 }
 
-async function main() {
-    let input = require('./AL_cg_crawl_list_new.json')
-    for (let i = 0; i < input.length; i++) {
-        console.log(`current progress: ${i * 100 / input.length}% - at ${i + 1}/${input.length}`)
-        const url = input[i].url
-        const filename = input[i].filename.replace(/[\\\/\:\*\?\"\<\>\|]/g, "")
-        if (fs.existsSync('./output/' + filename)) {
-            console.log('skip ' + filename)
-            continue
-        }
-        let err = ""
-        let res = await downloadFile(url, './output/' + filename).catch((e) => {err = e})
-        if (err) { console.log('error download ' + filename + ' : ' + err); continue }
-        console.log('downloaded ' + filename)
-        await sleep(2000)
-    }
-    console.log('done.')
-}
- 
-// main()
-
 // axios.get("https://darkboom.miraheze.org/w/index.php?title=Special:MIMESearch&limit=500&offset=500&mime=image%2F%2A", {}).then(
 //     (res) => {
 //         let res_string = ""
@@ -141,6 +120,70 @@ function mapToFileName() {
     console.log('done')
 }
 
+function mapWGToFileName() {
+    let wg_char = require('./WG_char_map.json')
+    const files = fs.readdirSync('./output')
+    files.forEach((val) => {
+        let comp = val.replace('.png','').split(' ')
+        if (comp.length < 3) {
+            console.log(val, comp.join('_'))
+            return
+        }
+        let id = parseInt(comp[2])
+        if (comp.length === 4) {
+            comp[3] = 'alt_' + comp[3]
+        }
+        else if (id > 1000) {
+            comp.push('retrofit')
+            id -= 1000
+            comp[2] = id
+        }
+        else {
+            comp.push('base')
+        }
+        if (comp[1] === 'BROKEN') comp.push('damage')
+        
+        let found = wg_char.find((item) => item.id == id)
+        if (found) {
+            comp[2] = found.name
+        }
+        else {
+            comp[2] = 'id' + comp[2]
+        }
+
+        comp.shift()
+        comp.shift()
+        let target_dir = comp.join('_') + '.png'
+        //console.log(val, '\t\t->', target_dir)
+        fs.renameSync('./output/' + val, './output/' + target_dir)
+    })
+}
+
+// mapWGToFileName()
+
+function fixWGName() {
+    let wg_char = require('./WG_char_map.json')
+    const files = fs.readdirSync('./output')
+    files.forEach((val) => {
+        let toEdit = val.split('_')[0]
+        let id = parseInt(toEdit.replace('id', ''))
+        let name = toEdit
+        let found = wg_char.find((item) => item.id == id)
+        if (found) {
+            name = found.name
+        }
+        else {
+            wg_char.push({id: id, name: toEdit})
+        }
+        let target_dir = val.replace(toEdit, name)
+        //console.log(val, '\t\t->', target_dir)
+        //fs.writeFileSync('WG_char_map_manual.json', JSON.stringify(wg_char, null, '\t'), {encoding: 'utf-8'})
+        fs.renameSync('./output/' + val, './output/' + target_dir)
+    })
+}
+
+fixWGName()
+
 //mapToFileName()
 var $ = cheerio.load('<html></html>')
 
@@ -167,11 +210,15 @@ async function getWarshipGirlShipList(url = "https://warship-girls.fandom.com/wi
     axios.get(url + page, {}).then(
         (res) => {
             $ = cheerio.load(res.data)
-            $('td > a').map((index, el) => {
-                const attributes = el.attribs;
+            $('td').map((index, el) => {
+                if ($("*", el).text().includes("N/A")) return
+                const attributes = $('a', el).attr()
+                if (!attributes) return
+                const id = $('div', el).text().split(' ')[1]
                 //console.log(el.attribs)
-                final_res.push({link: attributes.href, name: attributes.title})
+                final_res.push({id: id, link: attributes.href, name: attributes.title})
             })
+            
             if (page < 22) {
                 page += 1
                 final_res = getWarshipGirlShipList(url, page, final_res)
@@ -417,13 +464,14 @@ async function BGCGPageFileCraw(data) {
 
 async function WG_CNWikiIterateGallery() {
     //FILENAME STRUCTURE: L_<NORMAL/BROKEN>_<SHIP_ID>[_<SKIN_ID>]
+    let cg_list = require('./WG_cg_crawl_list_final.json')
     let isBroken = false
-    let shipId = 1
+    let shipId = 1001
     let skinId = 0 
 
     let res = []
 
-    const lastShipId = 50
+    const lastShipId = 1456
     //const url = "https://www.zjsnrwiki.com/wiki/%E6%96%87%E4%BB%B6:L_NORMAL_1.png"
 
     //TODO: iterate thisssssss
@@ -437,9 +485,25 @@ async function WG_CNWikiIterateGallery() {
 
     try {
         while (shipId <= lastShipId) {
-            let err = null
 
             console.log(`currently checking ship id ${shipId} - skin id ${skinId} - ${(isBroken)? "Damage variant" : "Normal variant"}`)
+
+            const filename = `L ${(isBroken)? "BROKEN" : "NORMAL"} ${shipId}${(skinId === 0)? "" : " " + skinId}.png`
+            //console.log(filename)
+
+            if (cg_list.findIndex((val) => val.filename == filename) != -1) {
+                console.log('(-) CG info existed')
+                if (isBroken) {
+                    isBroken = false
+                    if (shipId < 1000) skinId += 1
+                    else shipId += 1
+                }
+                else {
+                    isBroken = true
+                }
+                continue
+            }
+            let err = null
 
             const url = `https://www.zjsnrwiki.com/wiki/%E6%96%87%E4%BB%B6:L_${(isBroken)? "BROKEN" : "NORMAL"}_${shipId}${(skinId === 0)? "" : "_" + skinId}.png`
             console.log('trying ' + url)
@@ -466,7 +530,8 @@ async function WG_CNWikiIterateGallery() {
 
                 if (isBroken) {
                     isBroken = false
-                    skinId += 1
+                    if (shipId < 1000) skinId += 1
+                    else shipId += 1
                 }
                 else {
                     isBroken = true
@@ -592,7 +657,30 @@ async function main2() {
 
     //crawlCG4BattleshipGirl()
 
+    //getWarshipGirlShipList()
+
     WG_CNWikiIterateGallery()
 }
 
-main2()
+// main2()
+
+async function main() {
+    let input = require('./WG_cg_crawl_list_new.json')
+    for (let i = 0; i < input.length; i++) {
+        console.log(`current progress: ${i * 100 / input.length}% - at ${i + 1}/${input.length}`)
+        const url = input[i].url
+        const filename = input[i].filename.replace(/[\\\/\:\*\?\"\<\>\|]/g, "")
+        if (fs.existsSync('./output/' + filename)) {
+            console.log('skip ' + filename)
+            continue
+        }
+        let err = ""
+        let res = await downloadFile(url, './output/' + filename).catch((e) => {err = e})
+        if (err) { console.log('error download ' + filename + ' : ' + err); continue }
+        console.log('downloaded ' + filename)
+        await sleep(2000)
+    }
+    console.log('done.')
+}
+ 
+// main()
