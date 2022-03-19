@@ -5,9 +5,12 @@ Warship Girls R: https://warship-girls.fandom.com/wiki/List_of_Warship_Girls
 Kantai Collection: https://en.kancollewiki.net/Ship_List_(Image)
 Azur Lane: https://azurlane.koumakan.jp/wiki/List_of_Ships_by_Image (they ban crawling here so i use https://github.com/AzurAPI/azurapi-js instead)
 Abyss Horizon: https://abysshorizon.fandom.com/wiki/List_of_Naval_Belles (dead)
+http://sydpx.gamekee.com/
 https://wikiwiki.jp/abyss-hz/%E3%83%AC%E3%82%A2%E9%A0%86 (alt source)
 Victory Belles: https://victorybelles.fandom.com/wiki/Category:Belles (currently beta)
-Blue Oath: https://blueoath.miraheze.org/wiki/Senki
+Blue Oath (蒼藍の誓い-ブルーオース): https://blueoath.miraheze.org/wiki/Senki
+https://wikiwiki.jp/blueoath/%E3%83%AC%E3%82%A2%E3%83%AA%E3%83%86%E3%82%A3%E9%A0%86
+(missing aurora - cn exclusive)
 Arpeggio of Blue Steel: https://aokihagane.fandom.com/wiki/Category:Characters (dead)
 Black Surgenights: https://darkboom.miraheze.org/wiki/Dolls
 Guardian Project (超次元大海战): https://wikiwiki.jp/guardian-pro/%E4%B8%80%E8%A6%A7%E8%A1%A8

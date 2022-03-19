@@ -1,6 +1,7 @@
 const { default: axios } = require("axios");
 const fs = require('fs')
-const cheerio = require('cheerio')
+const cheerio = require('cheerio');
+const { type } = require("os");
 
 async function downloadFile(fileUrl, outputLocationPath) {
     const writer = fs.createWriteStream(outputLocationPath);
@@ -182,7 +183,67 @@ function fixWGName() {
     })
 }
 
-fixWGName()
+// fixWGName()
+
+function fixBOName() {
+    const files = fs.readdirSync('./output')
+    files.forEach((val) => {
+        let target_dir = val.replace('uipic_ui_lihui_', '').replace(/__/g, '_').replace('.png', '')
+        let [cg_type, ship_name, is_damage, is_heavy_damage] = target_dir.split('_')
+        if (!ship_name) return
+        is_damage = (is_damage)? true : false
+        is_heavy_damage = (is_heavy_damage)? true : false
+        cg_type = (cg_type === "11")? "retrofit" : (cg_type === "1")? "base" : `alt_${cg_type}`
+        console.log([ship_name, cg_type, is_damage, is_heavy_damage])
+        target_dir = ship_name + "_" + cg_type + (is_damage ? "_damage": "") + (is_heavy_damage ? "-heavy" : "") + ".png"
+        console.log(val, '\t\t->', target_dir)
+        fs.renameSync('./output/' + val, './output/' + target_dir)
+    })
+}
+
+//fixBOName()
+
+function fixVCName() {
+    const files = fs.readdirSync('./output')
+    files.forEach((val) => {
+        let comp = val.split('-')
+        let id = parseInt(comp.shift())
+        let target_dir = comp.join('-')
+        if (id >= 11000) target_dir = target_dir.replace('_R', '_retrofit')
+        console.log(val, '\t\t->', target_dir)
+        fs.renameSync('./output/' + val, './output/' + target_dir)
+    })
+}
+
+//fixVCName()
+
+function fixLGName() {
+    const files = fs.readdirSync('./output')
+    let lg_char = require('./LG_char_map.json')
+    files.forEach((val) => {
+        if (val === "error") return
+        let comp = val.replace('.png', '').split('_')
+        id = comp[0]
+        let found = lg_char.find((item) => item.id == id)
+        if (found) {
+            comp[0] = found.name
+        }
+        else {
+            lg_char.push({id: id, name: id})
+        }
+
+        if (comp[1]) {
+            if (comp[1] === "h") comp[1] = 'oath'
+            else comp[1] = "alt_" + comp[1]
+        }
+        let target_dir = comp.join('_') + ".png"
+        console.log(val, '\t\t->', target_dir)
+        fs.renameSync('./output/' + val, './output/' + target_dir)
+    })
+    fs.writeFileSync('./LG_char_map_manual.json', JSON.stringify(lg_char, null, '\t'), {encoding: 'utf-8'})
+}
+
+fixLGName()
 
 //mapToFileName()
 var $ = cheerio.load('<html></html>')
