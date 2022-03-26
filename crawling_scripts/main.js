@@ -99,7 +99,7 @@ function getShipId() {
                     })
                 }
             })
-            fs.writeFileSync('char_map.json', JSON.stringify(res_string, null, '\t'), {encoding: 'utf-8'})
+            fs.writeFileSync('./generated_data/char_map.json', JSON.stringify(res_string, null, '\t'), {encoding: 'utf-8'})
         },
         (err) => {
             console.log(err)
@@ -111,7 +111,7 @@ function getShipId() {
 
 function mapToFileName() {
     let id_array = indentifyType()
-    let char_array = require('./char_map.json')
+    let char_array = require('./generated_data/char_map.json')
     id_array.forEach((val, index) => {
         let found = char_array.find((char) => char.char_id === val[4])
         let name = (found) ? found.char_name : "Unknown"
@@ -122,7 +122,7 @@ function mapToFileName() {
 }
 
 function mapWGToFileName() {
-    let wg_char = require('./WG_char_map.json')
+    let wg_char = require('./generated_data/WG_char_map.json')
     const files = fs.readdirSync('./output')
     files.forEach((val) => {
         let comp = val.replace('.png','').split(' ')
@@ -163,7 +163,7 @@ function mapWGToFileName() {
 // mapWGToFileName()
 
 function fixWGName() {
-    let wg_char = require('./WG_char_map.json')
+    let wg_char = require('./generated_data/WG_char_map.json')
     const files = fs.readdirSync('./output')
     files.forEach((val) => {
         let toEdit = val.split('_')[0]
@@ -178,7 +178,7 @@ function fixWGName() {
         }
         let target_dir = val.replace(toEdit, name)
         //console.log(val, '\t\t->', target_dir)
-        //fs.writeFileSync('WG_char_map_manual.json', JSON.stringify(wg_char, null, '\t'), {encoding: 'utf-8'})
+        //fs.writeFileSync('./generated_data/WG_char_map_manual.json', JSON.stringify(wg_char, null, '\t'), {encoding: 'utf-8'})
         fs.renameSync('./output/' + val, './output/' + target_dir)
     })
 }
@@ -206,6 +206,7 @@ function fixBOName() {
 function fixVCName() {
     const files = fs.readdirSync('./output')
     files.forEach((val) => {
+        if (val === "error") return
         let comp = val.split('-')
         let id = parseInt(comp.shift())
         let target_dir = comp.join('-')
@@ -215,11 +216,11 @@ function fixVCName() {
     })
 }
 
-//fixVCName()
+fixVCName()
 
 function fixLGName() {
     const files = fs.readdirSync('./output')
-    let lg_char = require('./LG_char_map.json')
+    let lg_char = require('./generated_data/LG_char_map.json')
     files.forEach((val) => {
         if (val === "error") return
         let comp = val.replace('.png', '').split('_')
@@ -240,10 +241,10 @@ function fixLGName() {
         console.log(val, '\t\t->', target_dir)
         fs.renameSync('./output/' + val, './output/' + target_dir)
     })
-    fs.writeFileSync('./LG_char_map_manual.json', JSON.stringify(lg_char, null, '\t'), {encoding: 'utf-8'})
+    fs.writeFileSync('./generated_data/LG_char_map_manual.json', JSON.stringify(lg_char, null, '\t'), {encoding: 'utf-8'})
 }
 
-fixLGName()
+// fixLGName()
 
 //mapToFileName()
 var $ = cheerio.load('<html></html>')
@@ -254,7 +255,7 @@ function getAzurLaneShipList() {
         const attributes = el.attribs;
         res.push({link: attributes.href, name: attributes.title})
     })
-    fs.writeFileSync('AL_char_map.json', JSON.stringify(res, null, '\t'), {encoding: 'utf-8'})
+    fs.writeFileSync('./generated_data/AL_char_map.json', JSON.stringify(res, null, '\t'), {encoding: 'utf-8'})
 }
 
 function getKanColleShipList() {
@@ -263,7 +264,7 @@ function getKanColleShipList() {
         const attributes = el.attribs;
         res.push({link: '/' + attributes.alt.replace(/ /g, "_"), name: attributes.alt})
     })
-    fs.writeFileSync('KC_char_map.json', JSON.stringify(res, null, '\t'), {encoding: 'utf-8'})
+    fs.writeFileSync('./generated_data/KC_char_map.json', JSON.stringify(res, null, '\t'), {encoding: 'utf-8'})
 }
 
 async function getWarshipGirlShipList(url = "https://warship-girls.fandom.com/wiki/List_of_Warship_Girls/", page = 1, final_res = []) {
@@ -285,7 +286,7 @@ async function getWarshipGirlShipList(url = "https://warship-girls.fandom.com/wi
                 final_res = getWarshipGirlShipList(url, page, final_res)
             }
             else {
-                fs.writeFileSync('WG_char_map.json', JSON.stringify(final_res, null, '\t'), {encoding: 'utf-8'})
+                fs.writeFileSync('./generated_data/WG_char_map.json', JSON.stringify(final_res, null, '\t'), {encoding: 'utf-8'})
             }
         },
         (err) => {
@@ -300,7 +301,7 @@ function getBlueOathShipList() {
         const attributes = el.attribs;
         res.push({link: attributes.href, name: attributes.title})
     })
-    fs.writeFileSync('BO_char_map.json', JSON.stringify(res, null, '\t'), {encoding: 'utf-8'})
+    fs.writeFileSync('./generated_data/BO_char_map.json', JSON.stringify(res, null, '\t'), {encoding: 'utf-8'})
 }
 
 function ALWikiPageFileCrawl() {
@@ -425,7 +426,7 @@ function WGWikiPageFileCrawl(data, entry) {
 }
 
 async function crawlCG4KanColle() {
-    let input = require('./kc_cg_crawl_list.json')
+    let input = require('./generated_data/kc_cg_crawl_list.json')
     for (let i = 0; i < input.length; i++) {
         console.log(`current progress: ${i * 100 / input.length}% - at ${i + 1}/${input.length}`)
         const url = input[i].link
@@ -486,7 +487,7 @@ async function crawlCG4WarshipGirl() {
 }
 
 async function crawlCG4BattleshipGirl() {
-    let input = require("./BG_cg_crawl_list.json")
+    let input = require("./generated_data/BG_cg_crawl_list.json")
     for (let i = 0; i < input.length; i++) {
         console.log(`current progress: ${i * 100 / input.length}% - at ${i + 1}/${input.length}`)
         const filename = (input[i].name + "_" + input[i].skin + ".jpg").replace(/[\\\/\:\*\?\"\<\>\|]/g, "")
@@ -525,7 +526,7 @@ async function BGCGPageFileCraw(data) {
 
 async function WG_CNWikiIterateGallery() {
     //FILENAME STRUCTURE: L_<NORMAL/BROKEN>_<SHIP_ID>[_<SKIN_ID>]
-    let cg_list = require('./WG_cg_crawl_list_final.json')
+    let cg_list = require('./generated_data/WG_cg_crawl_list_final.json')
     let isBroken = false
     let shipId = 1001
     let skinId = 0 
@@ -539,7 +540,7 @@ async function WG_CNWikiIterateGallery() {
 
     process.on('SIGINT', () => {
         console.log('process interupted, logging current result...')
-        fs.writeFileSync('WG_cg_crawl_list_new.json', JSON.stringify(res, null, '\t'), {encoding: 'utf-8'})
+        fs.writeFileSync('./generated_data/WG_cg_crawl_list_new.json', JSON.stringify(res, null, '\t'), {encoding: 'utf-8'})
         console.log('Done, exiting')
         process.exit(0);
     })
@@ -613,7 +614,7 @@ async function WG_CNWikiIterateGallery() {
         console.log('unindentified error happened, exiting...')
     }
 
-    fs.writeFileSync('WG_cg_crawl_list_new.json', JSON.stringify(res, null, '\t'), {encoding: 'utf-8'})
+    fs.writeFileSync('./generated_data/WG_cg_crawl_list_new.json', JSON.stringify(res, null, '\t'), {encoding: 'utf-8'})
 
     console.log(res)
 }
@@ -627,8 +628,8 @@ async function main2() {
     // $ = cheerio.load(fs.readFileSync('./BOshiplist.html'))
     // getBlueOathShipList()
     // ALWikiPageFileCrawl()
-    // let data = require('./AL_ships_v2.json')
-    // let original_data = require('./cg_crawl_list.json')
+    // let data = require('./generated_data/AL_ships_v2.json')
+    // let original_data = require('./generated_data/cg_crawl_list.json')
     // //console.log(data.length)
     // let res = []
     // data.forEach((ship) => {
@@ -642,9 +643,9 @@ async function main2() {
     //         if (skin.bg) res.push({ship: ship.names.en, skin: skin.name, filename: `${ship.names.en}_${skin.name}_bg.png`, url: skin.bg})
     //     })
     // })
-    // fs.writeFileSync('AL_cg_crawl_list_new.json', JSON.stringify(res, null, '\t'), {encoding: 'utf-8'})
+    // fs.writeFileSync('./generated_data/AL_cg_crawl_list_new.json', JSON.stringify(res, null, '\t'), {encoding: 'utf-8'})
 
-    // const KC_char_map = require('./KC_char_map.json')
+    // const KC_char_map = require('./generated_data/KC_char_map.json')
     // for (let  i = 0; i < KC_char_map.length; i++) { 
     //     console.log(`(${i}/${KC_char_map.length}) checking ${KC_char_map[i].name}`)
     //     let res = await axios.get(`https://en.kancollewiki.net${KC_char_map[i].link}`)
@@ -657,8 +658,8 @@ async function main2() {
     //         await sleep(2000)
     //     }
     // }
-    // fs.writeFileSync('kc_cg_crawl_list.json', JSON.stringify(KC_list, null, '\t'), {encoding: 'utf-8'})
-    // fs.writeFileSync('kc_cg_crawl_error.json', JSON.stringify(error_list, null, '\t'), {encoding: 'utf-8'})
+    // fs.writeFileSync('./generated_data/kc_cg_crawl_list.json', JSON.stringify(KC_list, null, '\t'), {encoding: 'utf-8'})
+    // fs.writeFileSync('./generated_data/kc_cg_crawl_error.json', JSON.stringify(error_list, null, '\t'), {encoding: 'utf-8'})
 
     //crawlCG4KanColle()
 
