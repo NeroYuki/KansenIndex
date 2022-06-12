@@ -432,7 +432,7 @@
 		"char_name": "New York"
 	},
 	{
-		"char_id": "1001",
+		"char_id": "1009",
 		"char_name": "Shangri-la"
 	},
 	{
@@ -552,8 +552,32 @@
 		"char_name": "Karlsruhe"
 	},
 	{
+		"char_id": "5020",
+		"char_name": "Benson"
+	},
+	{
 		"char_id": "5050",
 		"char_name": "Z52"
+	},
+	{
+		"char_id": "4034",
+		"char_name": "Sussex"
+	},
+	{
+		"char_id": "3027",
+		"char_name": "Kitakami"
+	},
+	{
+		"char_id": "3038",
+		"char_name": "Dido"
+	},
+	{
+		"char_id": "1032",
+		"char_name": "Peter Strasser"
+	},
+	{
+		"char_id": "6040",
+		"char_name": "West Virginia"
 	},
 	{
 		"char_id": "3053",
@@ -564,12 +588,8 @@
 		"char_name": "Tirpitz"
 	},
 	{
-		"char_id": "4032",
+		"char_id": "4043",
 		"char_name": "San Francisco"
-	},
-	{
-		"char_id": "5001",
-		"char_name": "?"
 	},
 	{
 		"char_id": "5059",
@@ -582,5 +602,9 @@
 	{
 		"char_id": "6024",
 		"char_name": "Musashi"
+	},
+	{
+		"char_id": "5001",
+		"char_name": "Shigure"
 	}
 ]

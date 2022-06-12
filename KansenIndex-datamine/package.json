@@ -12,6 +12,12 @@
   "dependencies": {
     "axios": "^0.24.0",
     "cheerio": "^1.0.0-rc.10",
-    "jimp": "^0.16.1"
+    "fast-xml-parser": "^4.0.7",
+    "jimp": "^0.16.1",
+    "lzo": "^0.4.11",
+    "merge-files": "^0.1.2",
+    "pako": "^2.0.4",
+    "sharp": "^0.30.6",
+    "unzipper": "^0.10.11"
   }
 }
