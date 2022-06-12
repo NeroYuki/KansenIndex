@@ -61,70 +61,12 @@ function sleep(ms) {
 //     }   
 // )
 
-function indentifyType() {
-    //ship girl asset id have 7 number.
-    //4 first number for ship
-    //3 later number following (000 - normal, 001-099 - alt outfit, 100 - abysal form, 101-899 - alt abyssal, 900 - no rigging)
-    let file_list = fs.readdirSync('./output', {})
-    let resolve_filelist = []
-    file_list.forEach((val) => {
-        let asset_id = val.split('_')[2].replace('.png', '')
-        let type_id = parseInt(asset_id.slice(-3))
-        let type = (type_id === 0) ? "normal" :
-            (type_id === 100) ? "abyssal" :
-            (type_id === 800) ? "abyssal_no_rigging" :
-            (type_id === 900) ? "no_rigging" : "alt_" + type_id
-        let char_id = asset_id.slice(0, asset_id.length - 3)
-        if (char_id.length === 4) {
-            resolve_filelist.push([val, asset_id, type_id, type, char_id])
-        }
-    })
-    return (resolve_filelist)
-}
-
-//indentifyType()
-
-function getShipId() {
-    axios.get('https://darkboom.miraheze.org/wiki/Dolls', {}).then(
-        (res) => {
-            let res_string = []
-            let lines = res.data.split('\n')
-            lines.forEach((val, index) => {
-                if (val.includes("img alt=\"Character icon")) {
-                    let char_id = lines[index + 2].replace('<td>', '').replace('</td>', '')
-                    let char_name = lines[index + 3].replace('<td>', '').replace('</td>', '')
-                    res_string.push({
-                        char_id: char_id,
-                        char_name: char_name
-                    })
-                }
-            })
-            fs.writeFileSync('./generated_data/char_map.json', JSON.stringify(res_string, null, '\t'), {encoding: 'utf-8'})
-        },
-        (err) => {
-            console.log(err)
-        }
-    )
-}
-
-//getShipId()
-
-function mapToFileName() {
-    let id_array = indentifyType()
-    let char_array = require('./generated_data/char_map.json')
-    id_array.forEach((val, index) => {
-        let found = char_array.find((char) => char.char_id === val[4])
-        let name = (found) ? found.char_name : "Unknown"
-        id_array[index] = id_array[index].concat([name, name + "_" + val[3] + ".png"])
-        fs.renameSync('./output/' + id_array[index][0], './output/' + id_array[index][6])
-    })
-    console.log('done')
-}
 
 function mapWGToFileName() {
     let wg_char = require('./generated_data/WG_char_map.json')
     const files = fs.readdirSync('./output')
     files.forEach((val) => {
+        if (!val.endsWith('.png')) return
         let comp = val.replace('.png','').split(' ')
         if (comp.length < 3) {
             console.log(val, comp.join('_'))
@@ -134,7 +76,7 @@ function mapWGToFileName() {
         if (comp.length === 4) {
             comp[3] = 'alt_' + comp[3]
         }
-        else if (id > 1000) {
+        else if (id > 1000 && id < 3000) {
             comp.push('retrofit')
             id -= 1000
             comp[2] = id
@@ -149,23 +91,26 @@ function mapWGToFileName() {
             comp[2] = found.name
         }
         else {
-            comp[2] = 'id' + comp[2]
+            //comp[2] = 'id' + comp[2]
+            wg_char.push({id: id, name: id})
         }
 
         comp.shift()
         comp.shift()
         let target_dir = comp.join('_') + '.png'
-        //console.log(val, '\t\t->', target_dir)
+        console.log(val, '\t\t->', target_dir)
         fs.renameSync('./output/' + val, './output/' + target_dir)
     })
+    //fs.writeFileSync('./generated_data/WG_char_map_manual.json', JSON.stringify(wg_char, null, '\t'), {encoding: 'utf-8'})
 }
 
-// mapWGToFileName()
+mapWGToFileName()
 
 function fixWGName() {
     let wg_char = require('./generated_data/WG_char_map.json')
     const files = fs.readdirSync('./output')
     files.forEach((val) => {
+        if (!val.endsWith('.png')) return
         let toEdit = val.split('_')[0]
         let id = parseInt(toEdit.replace('id', ''))
         let name = toEdit
@@ -177,9 +122,9 @@ function fixWGName() {
             wg_char.push({id: id, name: toEdit})
         }
         let target_dir = val.replace(toEdit, name)
-        //console.log(val, '\t\t->', target_dir)
-        //fs.writeFileSync('./generated_data/WG_char_map_manual.json', JSON.stringify(wg_char, null, '\t'), {encoding: 'utf-8'})
-        fs.renameSync('./output/' + val, './output/' + target_dir)
+        console.log(val, '\t\t->', target_dir)
+        fs.writeFileSync('./generated_data/WG_char_map_manual.json', JSON.stringify(wg_char, null, '\t'), {encoding: 'utf-8'})
+        //fs.renameSync('./output/' + val, './output/' + target_dir)
     })
 }
 
@@ -216,7 +161,7 @@ function fixVCName() {
     })
 }
 
-fixVCName()
+//fixVCName()
 
 function fixLGName() {
     const files = fs.readdirSync('./output')
@@ -523,17 +468,43 @@ async function BGCGPageFileCraw(data) {
     })
 }
 
+async function WG_CNWikiGetEligibleId() {
+    const url = encodeURI("https://www.zjsnrwiki.com/wiki/舰娘图鉴")
+    let page_res = await axios.get(url).catch((e) => err = e)
+    let id_res = []
+    if (page_res) {
+        //console.log(page_res)
+        const data = page_res.data
+        $ = cheerio.load(data)
+
+        // let ayy = $('center > b:contains("No. ")' ).contents()
+        // console.log(ayy)
+        $('center > b:contains("No. ")' ).toArray().map((v) => {
+            //console.log(index)
+            let id_text = $(v).text()
+            id_res.push(parseInt(id_text.replace("No. ", "")))
+        })
+    }
+
+    fs.writeFileSync('./generated_data/WG_valid_ship_id.json', JSON.stringify(id_res, null, '\t'), {encoding: 'utf-8'})
+
+}
+
+//WG_CNWikiGetEligibleId()
+
 
 async function WG_CNWikiIterateGallery() {
     //FILENAME STRUCTURE: L_<NORMAL/BROKEN>_<SHIP_ID>[_<SKIN_ID>]
     let cg_list = require('./generated_data/WG_cg_crawl_list_final.json')
+    let valid_id = require('./generated_data/WG_valid_ship_id.json')
+    const BASE_SCAN_ONLY = false
     let isBroken = false
-    let shipId = 1001
+    let shipId = 1
     let skinId = 0 
 
     let res = []
 
-    const lastShipId = 1456
+    const lastShipId = 520
     //const url = "https://www.zjsnrwiki.com/wiki/%E6%96%87%E4%BB%B6:L_NORMAL_1.png"
 
     //TODO: iterate thisssssss
@@ -553,12 +524,21 @@ async function WG_CNWikiIterateGallery() {
             const filename = `L ${(isBroken)? "BROKEN" : "NORMAL"} ${shipId}${(skinId === 0)? "" : " " + skinId}.png`
             //console.log(filename)
 
+            if (valid_id.findIndex((val) => val === shipId) === -1) {
+                console.log('(-) Invalid ship Id existed')
+                shipId += 1
+                continue
+            }
+
             if (cg_list.findIndex((val) => val.filename == filename) != -1) {
                 console.log('(-) CG info existed')
                 if (isBroken) {
                     isBroken = false
-                    if (shipId < 1000) skinId += 1
-                    else shipId += 1
+                    //skip skinId 2 for Tirpitz 
+                    if (shipId === 7 && skinId === 1) skinId += 2 
+                    //check alternate outfit if ship is not retrofit or base scan option is false
+                    else if (shipId < 1000 && !BASE_SCAN_ONLY) skinId += 1
+                    else { shipId += 1}
                 }
                 else {
                     isBroken = true
@@ -592,8 +572,11 @@ async function WG_CNWikiIterateGallery() {
 
                 if (isBroken) {
                     isBroken = false
-                    if (shipId < 1000) skinId += 1
-                    else shipId += 1
+                    //skip skinId 2 for Tirpitz 
+                    if (shipId === 7 && skinId === 1) skinId += 2 
+                    //check alternate outfit if ship is not retrofit or base scan option is false
+                    else if (shipId < 1000 && !BASE_SCAN_ONLY) skinId += 1
+                    else { shipId += 1}
                 }
                 else {
                     isBroken = true
@@ -619,6 +602,28 @@ async function WG_CNWikiIterateGallery() {
     console.log(res)
 }
 
+// WG_CNWikiIterateGallery()
+
+function updateALCGList() {
+    //new verison file here
+    let data = require('./generated_data/AL_ships_v3.json')
+    let original_data = require('./generated_data/cg_crawl_list.json')
+    //console.log(data.length)
+    let res = []
+    data.forEach((ship) => {
+        ship.skins.forEach((skin) => {
+            if (original_data.findIndex((entry) => (ship.names.en === entry.ship && skin.name === entry.skin)) !== -1) {
+                return
+            }
+            else {console.log(`new cg found for: ${ship.names.en} - ${skin.name}`)}
+            res.push({ship: ship.names.en, skin: skin.name, filename: `${ship.names.en}_${skin.name}.png`, url: skin.image})
+            if (skin.cn) res.push({ship: ship.names.en, skin: skin.name, filename: `${ship.names.en}_${skin.name}_cn.png`, url: skin.cn})
+            if (skin.bg) res.push({ship: ship.names.en, skin: skin.name, filename: `${ship.names.en}_${skin.name}_bg.png`, url: skin.bg})
+        })
+    })
+    fs.writeFileSync('./generated_data/AL_cg_crawl_list_new.json', JSON.stringify(res, null, '\t'), {encoding: 'utf-8'})
+}
+
 async function main2() {
     // $ = cheerio.load(fs.readFileSync('./KCshiplist.html'))
     // getKanColleShipList()
@@ -628,22 +633,7 @@ async function main2() {
     // $ = cheerio.load(fs.readFileSync('./BOshiplist.html'))
     // getBlueOathShipList()
     // ALWikiPageFileCrawl()
-    // let data = require('./generated_data/AL_ships_v2.json')
-    // let original_data = require('./generated_data/cg_crawl_list.json')
-    // //console.log(data.length)
-    // let res = []
-    // data.forEach((ship) => {
-    //     ship.skins.forEach((skin) => {
-    //         if (original_data.findIndex((entry) => (ship.names.en === entry.ship && skin.name === entry.skin)) !== -1) {
-    //             return
-    //         }
-    //         else {console.log(`new cg found for: ${ship.names.en} - ${skin.name}`)}
-    //         res.push({ship: ship.names.en, skin: skin.name, filename: `${ship.names.en}_${skin.name}.png`, url: skin.image})
-    //         if (skin.cn) res.push({ship: ship.names.en, skin: skin.name, filename: `${ship.names.en}_${skin.name}_cn.png`, url: skin.cn})
-    //         if (skin.bg) res.push({ship: ship.names.en, skin: skin.name, filename: `${ship.names.en}_${skin.name}_bg.png`, url: skin.bg})
-    //     })
-    // })
-    // fs.writeFileSync('./generated_data/AL_cg_crawl_list_new.json', JSON.stringify(res, null, '\t'), {encoding: 'utf-8'})
+
 
     // const KC_char_map = require('./generated_data/KC_char_map.json')
     // for (let  i = 0; i < KC_char_map.length; i++) { 
@@ -721,13 +711,12 @@ async function main2() {
 
     //getWarshipGirlShipList()
 
-    WG_CNWikiIterateGallery()
 }
 
-// main2()
+//main2()
 
 async function main() {
-    let input = require('./WG_cg_crawl_list_new.json')
+    let input = require('./generated_data/WG_cg_crawl_list_new.json')
     for (let i = 0; i < input.length; i++) {
         console.log(`current progress: ${i * 100 / input.length}% - at ${i + 1}/${input.length}`)
         const url = input[i].url
@@ -745,4 +734,4 @@ async function main() {
     console.log('done.')
 }
  
-// main()
+//main()

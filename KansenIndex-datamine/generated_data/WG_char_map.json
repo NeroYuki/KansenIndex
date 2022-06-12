@@ -2468,5 +2468,41 @@
 	{
 		"id": 393,
 		"name": "Charles Osborne"
+	},
+	{
+		"id": 511,
+		"name": "Devonshire"
+	},
+	{
+		"id": 512,
+		"name": "Colombo"
+	},
+	{
+		"id": 513,
+		"name": "USS Intrepid (CV-11)"
+	},
+	{
+		"id": 515,
+		"name": "Voroshilov"
+	},
+	{
+		"id": 517,
+		"name": "Lübeck"
+	},
+	{
+		"id": 8007,
+		"name": "Little Tirpitz"
+	},
+	{
+		"id": 8009,
+		"name": "Little Rodney"
+	},
+	{
+		"id": 8111,
+		"name": "Little Washington"
+	},
+	{
+		"id": 8116,
+		"name": "Goeben"
 	}
 ]
