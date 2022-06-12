@@ -128,3 +128,12 @@ dist
 
 
 output/
+encoded_input/
+decoded_output/
+input/
+gear_download/
+gear_load/
+gear_out/
+rarity_frame/
+JSC_decrypt/Decrypted/
+JSC_decrypt/Encrypted/
