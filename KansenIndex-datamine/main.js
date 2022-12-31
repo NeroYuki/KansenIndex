@@ -104,7 +104,7 @@ function mapWGToFileName() {
     //fs.writeFileSync('./generated_data/WG_char_map_manual.json', JSON.stringify(wg_char, null, '\t'), {encoding: 'utf-8'})
 }
 
-mapWGToFileName()
+//mapWGToFileName()
 
 function fixWGName() {
     let wg_char = require('./generated_data/WG_char_map.json')
@@ -128,7 +128,7 @@ function fixWGName() {
     })
 }
 
-// fixWGName()
+//fixWGName()
 
 function fixBOName() {
     const files = fs.readdirSync('./output')
@@ -497,14 +497,14 @@ async function WG_CNWikiIterateGallery() {
     //FILENAME STRUCTURE: L_<NORMAL/BROKEN>_<SHIP_ID>[_<SKIN_ID>]
     let cg_list = require('./generated_data/WG_cg_crawl_list_final.json')
     let valid_id = require('./generated_data/WG_valid_ship_id.json')
-    const BASE_SCAN_ONLY = false
+    const BASE_SCAN_ONLY = true
     let isBroken = false
-    let shipId = 1
+    let shipId = 1001
     let skinId = 0 
 
     let res = []
 
-    const lastShipId = 520
+    const lastShipId = 1456
     //const url = "https://www.zjsnrwiki.com/wiki/%E6%96%87%E4%BB%B6:L_NORMAL_1.png"
 
     //TODO: iterate thisssssss
@@ -566,6 +566,7 @@ async function WG_CNWikiIterateGallery() {
 
                 $('.fullMedia > p > a' ).map((index, el) => {
                     const attributes = el.attribs;
+                    console.log("url found ", attributes.href)
                     res.push({url: attributes.href, filename: attributes.title})
                 })
                 await sleep(1000)
@@ -602,7 +603,7 @@ async function WG_CNWikiIterateGallery() {
     console.log(res)
 }
 
-// WG_CNWikiIterateGallery()
+//WG_CNWikiIterateGallery()
 
 function updateALCGList() {
     //new verison file here
@@ -623,6 +624,8 @@ function updateALCGList() {
     })
     fs.writeFileSync('./generated_data/AL_cg_crawl_list_new.json', JSON.stringify(res, null, '\t'), {encoding: 'utf-8'})
 }
+
+//updateALCGList()
 
 async function main2() {
     // $ = cheerio.load(fs.readFileSync('./KCshiplist.html'))
@@ -716,7 +719,7 @@ async function main2() {
 //main2()
 
 async function main() {
-    let input = require('./generated_data/WG_cg_crawl_list_new.json')
+    let input = require('./generated_data/WG_cg_crawl_list_new_cloud.json')
     for (let i = 0; i < input.length; i++) {
         console.log(`current progress: ${i * 100 / input.length}% - at ${i + 1}/${input.length}`)
         const url = input[i].url

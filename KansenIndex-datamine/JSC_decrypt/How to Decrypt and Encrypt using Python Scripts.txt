@@ -1,0 +1,12 @@
+# Open File Python Script Encryption and Decryption
+- Change Path Folder in Both Scripts File
+- Put Key Encryption and Decryption
+- Save
+
+
+# Then Open CMD and use this Command
+py PythonFile
+
+
+# example
+py Decrypt.py

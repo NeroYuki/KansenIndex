@@ -1,0 +1,15 @@
+{
+  "name": "unityspineanimrip",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "js2json": "node ./js2json.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jszip": "^3.10.1"
+  }
+}

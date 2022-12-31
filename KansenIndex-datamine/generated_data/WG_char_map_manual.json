@@ -2504,5 +2504,85 @@
 	{
 		"id": 8116,
 		"name": "Goeben"
+	},
+	{
+		"id": 502,
+		"name": "Jinan"
+	},
+	{
+		"id": 507,
+		"name": "Eidsvold"
+	},
+	{
+		"id": 514,
+		"name": "Ōmi"
+	},
+	{
+		"id": 516,
+		"name": "Zhdanov"
+	},
+	{
+		"id": 518,
+		"name": "IIIA"
+	},
+	{
+		"id": 519,
+		"name": "T.995"
+	},
+	{
+		"id": 520,
+		"name": "Montana"
+	},
+	{
+		"id": 528,
+		"name": "Chicago"
+	},
+	{
+		"id": 524,
+		"name": "Hawaii"
+	},
+	{
+		"id": 526,
+		"name": "Juneau (CL-119)"
+	},
+	{
+		"id": 530,
+		"name": "M-296"
+	},
+	{
+		"id": 531,
+		"name": "La Melpomène"
+	},
+	{
+		"id": 532,
+		"name": "Dante Alighieri"
+	},
+	{
+		"id": 506,
+		"name": "1938 Plan (I)"
+	},
+	{
+		"id": 521,
+		"name": "1913 Battlecruiser Design"
+	},
+	{
+		"id": 527,
+		"name": "CNT.68 Cruiser"
+	},
+	{
+		"id": 533,
+		"name": "Grozny"
+	},
+	{
+		"id": 537,
+		"name": "Pola"
+	},
+	{
+		"id": 538,
+		"name": "I-25"
+	},
+	{
+		"id": 539,
+		"name": "SKR-6"
 	}
 ]

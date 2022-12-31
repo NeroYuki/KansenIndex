@@ -10180,5 +10180,699 @@
 		"skin": "Breaker under the Blood Moon",
 		"filename": "Yorck_Breaker under the Blood Moon.png",
 		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/546/Breaker_under_the_Blood_Moon/image.png"
+	},
+	{
+		"ship": "Akatsuki",
+		"skin": "Cirque de Ninjutsu!",
+		"filename": "Akatsuki_Cirque de Ninjutsu!.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/159/Cirque_de_Ninjutsu/image.nobg.png"
+	},
+	{
+		"ship": "Akatsuki",
+		"skin": "Cirque de Ninjutsu!",
+		"filename": "Akatsuki_Cirque de Ninjutsu!_bg.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/159/Cirque_de_Ninjutsu/image.png"
+	},
+	{
+		"ship": "Ark Royal",
+		"skin": "Café Lookout",
+		"filename": "Ark Royal_Café Lookout.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/144/Caf_Lookout/image.png"
+	},
+	{
+		"ship": "Bellona",
+		"skin": "Default",
+		"filename": "Bellona_Default.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/551/Default/image.png"
+	},
+	{
+		"ship": "Bellona",
+		"skin": "Armed to Clean",
+		"filename": "Bellona_Armed to Clean.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/551/Armed_to_Clean/image.png"
+	},
+	{
+		"ship": "Biloxi",
+		"skin": "Romeo or Juliet?",
+		"filename": "Biloxi_Romeo or Juliet?.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/428/Romeo_or_Juliet/image.png"
+	},
+	{
+		"ship": "Boise",
+		"skin": "Jade Mermaid",
+		"filename": "Boise_Jade Mermaid.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/514/Jade_Mermaid/image.png"
+	},
+	{
+		"ship": "Chitose",
+		"skin": "Mosaic of Blending Colors",
+		"filename": "Chitose_Mosaic of Blending Colors.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/470/Mosaic_of_Blending_Colors/image.png"
+	},
+	{
+		"ship": "Forbin",
+		"skin": "Wedding",
+		"filename": "Forbin_Wedding.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/348/Wedding/image.nobg.png"
+	},
+	{
+		"ship": "Forbin",
+		"skin": "Wedding",
+		"filename": "Forbin_Wedding_bg.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/348/Wedding/image.png"
+	},
+	{
+		"ship": "Grozny",
+		"skin": "Tea Party with Królik",
+		"filename": "Grozny_Tea Party with Królik.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/431/Tea_Party_with_Krlik/image.nobg.png"
+	},
+	{
+		"ship": "Grozny",
+		"skin": "Tea Party with Królik",
+		"filename": "Grozny_Tea Party with Królik_bg.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/431/Tea_Party_with_Krlik/image.png"
+	},
+	{
+		"ship": "Howe",
+		"skin": "Evening Marvels",
+		"filename": "Howe_Evening Marvels.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/461/Evening_Marvels/image.png"
+	},
+	{
+		"ship": "Indomitable",
+		"skin": "Default",
+		"filename": "Indomitable_Default.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/553/Default/image.png"
+	},
+	{
+		"ship": "Indomitable",
+		"skin": "Ms. Motivationless Maid",
+		"filename": "Indomitable_Ms. Motivationless Maid.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/553/Ms_Motivationless_Maid/image.png"
+	},
+	{
+		"ship": "Jervis",
+		"skin": "Default",
+		"filename": "Jervis_Default.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/550/Default/image.nobg.png"
+	},
+	{
+		"ship": "Jervis",
+		"skin": "Default",
+		"filename": "Jervis_Default_bg.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/550/Default/image.png"
+	},
+	{
+		"ship": "Jervis",
+		"skin": "Original Art",
+		"filename": "Jervis_Original Art.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/550/Original_Art/image.png"
+	},
+	{
+		"ship": "Jervis",
+		"skin": "Fluttering in the Fair Breeze",
+		"filename": "Jervis_Fluttering in the Fair Breeze.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/550/Fluttering_in_the_Fair_Breeze/image.png"
+	},
+	{
+		"ship": "Jintsuu",
+		"skin": "The Gray Wolf's Ploy",
+		"filename": "Jintsuu_The Gray Wolf's Ploy.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/309/The_Gray_Wolfs_Ploy/image.png"
+	},
+	{
+		"ship": "Joffre",
+		"skin": "Default",
+		"filename": "Joffre_Default.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/555/Default/image.png"
+	},
+	{
+		"ship": "Joffre",
+		"skin": "Ensorcelled Snow White",
+		"filename": "Joffre_Ensorcelled Snow White.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/555/Ensorcelled_Snow_White/image.png"
+	},
+	{
+		"ship": "L'Indomptable",
+		"skin": "Default",
+		"filename": "L'Indomptable_Default.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/556/Default/image.png"
+	},
+	{
+		"ship": "L'Indomptable",
+		"skin": "Little Red Riding Hood's Worries",
+		"filename": "L'Indomptable_Little Red Riding Hood's Worries.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/556/Little_Red_Riding_Hoods_Worries/image.png"
+	},
+	{
+		"ship": "Le Mars",
+		"skin": "Splendorous Debut",
+		"filename": "Le Mars_Splendorous Debut.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/351/Splendorous_Debut/image.nobg.png"
+	},
+	{
+		"ship": "Le Mars",
+		"skin": "Splendorous Debut",
+		"filename": "Le Mars_Splendorous Debut_bg.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/351/Splendorous_Debut/image.png"
+	},
+	{
+		"ship": "Le Terrible",
+		"skin": "Silence, Slumber, and Solace",
+		"filename": "Le Terrible_Silence, Slumber, and Solace.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/522/Silence_Slumber_and_Solace/image.png"
+	},
+	{
+		"ship": "Little Cheshire",
+		"skin": "Default",
+		"filename": "Little Cheshire_Default.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/552/Default/image.png"
+	},
+	{
+		"ship": "Memphis META",
+		"skin": "Default",
+		"filename": "Memphis META_Default.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/30011/Default/image.png"
+	},
+	{
+		"ship": "New Jersey",
+		"skin": "Wedding",
+		"filename": "New Jersey_Wedding.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/068/Wedding/image.nobg.png"
+	},
+	{
+		"ship": "New Jersey",
+		"skin": "Wedding",
+		"filename": "New Jersey_Wedding_bg.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/068/Wedding/image.png"
+	},
+	{
+		"ship": "Prinz Eugen",
+		"skin": "Kindred Evening Spirits",
+		"filename": "Prinz Eugen_Kindred Evening Spirits.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/244/Kindred_Evening_Spirits/image.png"
+	},
+	{
+		"ship": "Repulse META",
+		"skin": "Default",
+		"filename": "Repulse META_Default.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/30012/Default/image.png"
+	},
+	{
+		"ship": "Revenge",
+		"skin": "Default",
+		"filename": "Revenge_Default.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/554/Default/image.png"
+	},
+	{
+		"ship": "Revenge",
+		"skin": "The Maid-Knight Charges Forth!",
+		"filename": "Revenge_The Maid-Knight Charges Forth!.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/554/The_MaidKnight_Charges_Forth/image.png"
+	},
+	{
+		"ship": "Roon",
+		"skin": "Viridescent Lullaby",
+		"filename": "Roon_Viridescent Lullaby.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/Plan005/Viridescent_Lullaby/image.nobg.png"
+	},
+	{
+		"ship": "Roon",
+		"skin": "Viridescent Lullaby",
+		"filename": "Roon_Viridescent Lullaby_bg.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/Plan005/Viridescent_Lullaby/image.png"
+	},
+	{
+		"ship": "Saratoga",
+		"skin": "Wedding",
+		"filename": "Saratoga_Wedding.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/074/Wedding/image.nobg.png"
+	},
+	{
+		"ship": "Saratoga",
+		"skin": "Wedding",
+		"filename": "Saratoga_Wedding_bg.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/074/Wedding/image.png"
+	},
+	{
+		"ship": "Shimakaze",
+		"skin": "The White Rabbit of Wonderland",
+		"filename": "Shimakaze_The White Rabbit of Wonderland.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/268/The_White_Rabbit_of_Wonderland/image.png"
+	},
+	{
+		"ship": "Tirpitz",
+		"skin": "A Vase for the Frost Flower",
+		"filename": "Tirpitz_A Vase for the Frost Flower.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/251/A_Vase_for_the_Frost_Flower/image.nobg.png"
+	},
+	{
+		"ship": "Tirpitz",
+		"skin": "A Vase for the Frost Flower",
+		"filename": "Tirpitz_A Vase for the Frost Flower_bg.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/251/A_Vase_for_the_Frost_Flower/image.png"
+	},
+	{
+		"ship": "Unicorn",
+		"skin": "Retrofit",
+		"filename": "Unicorn_Retrofit.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/142/Retrofit/image.png"
+	},
+	{
+		"ship": "Vanguard",
+		"skin": "Default",
+		"filename": "Vanguard_Default.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/137/Default/image.png"
+	},
+	{
+		"ship": "Vanguard",
+		"skin": "Half-Hearted Masquerade",
+		"filename": "Vanguard_Half-Hearted Masquerade.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/137/HalfHearted_Masquerade/image.png"
+	},
+	{
+		"ship": "Washington",
+		"skin": "Jubilant Smile",
+		"filename": "Washington_Jubilant Smile.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/064/Jubilant_Smile/image.nobg.png"
+	},
+	{
+		"ship": "Washington",
+		"skin": "Jubilant Smile",
+		"filename": "Washington_Jubilant Smile_bg.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/064/Jubilant_Smile/image.png"
+	},
+	{
+		"ship": "Ägir",
+		"skin": "Iron Blood's Dragon Maid",
+		"filename": "Ägir_Iron Blood's Dragon Maid.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/Plan020/Iron_Bloods_Dragon_Maid/image.png"
+	},
+	{
+		"ship": "Brest",
+		"skin": "Default",
+		"filename": "Brest_Default.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/20027/Default/image.png"
+	},
+	{
+		"ship": "Chkalov",
+		"skin": "Default",
+		"filename": "Chkalov_Default.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/20026/Default/image.png"
+	},
+	{
+		"ship": "Harbin",
+		"skin": "Default",
+		"filename": "Harbin_Default.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/20025/Default/image.png"
+	},
+	{
+		"ship": "Plymouth",
+		"skin": "Default",
+		"filename": "Plymouth_Default.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/20023/Default/image.png"
+	},
+	{
+		"ship": "Prinz Rupprecht",
+		"skin": "Default",
+		"filename": "Prinz Rupprecht_Default.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/20024/Default/image.png"
+	},
+	{
+		"ship": "Alfredo Oriani",
+		"skin": "Default",
+		"filename": "Alfredo Oriani_Default.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/562/Default/image.nobg.png"
+	},
+	{
+		"ship": "Alfredo Oriani",
+		"skin": "Default",
+		"filename": "Alfredo Oriani_Default_bg.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/562/Default/image.png"
+	},
+	{
+		"ship": "Alfredo Oriani",
+		"skin": "Vivacious Vivace",
+		"filename": "Alfredo Oriani_Vivacious Vivace.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/562/Vivacious_Vivace/image.nobg.png"
+	},
+	{
+		"ship": "Alfredo Oriani",
+		"skin": "Vivacious Vivace",
+		"filename": "Alfredo Oriani_Vivacious Vivace_bg.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/562/Vivacious_Vivace/image.png"
+	},
+	{
+		"ship": "Algérie",
+		"skin": "Red Queen's Decree",
+		"filename": "Algérie_Red Queen's Decree.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/455/Red_Queens_Decree/image.png"
+	},
+	{
+		"ship": "Blücher",
+		"skin": "Default",
+		"filename": "Blücher_Default.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/243/Default/image.nobg.png"
+	},
+	{
+		"ship": "Blücher",
+		"skin": "Default",
+		"filename": "Blücher_Default_bg.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/243/Default/image.png"
+	},
+	{
+		"ship": "Blücher",
+		"skin": "High-Altitude Head Over Heels",
+		"filename": "Blücher_High-Altitude Head Over Heels.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/243/HighAltitude_Head_Over_Heels/image.nobg.png"
+	},
+	{
+		"ship": "Blücher",
+		"skin": "High-Altitude Head Over Heels",
+		"filename": "Blücher_High-Altitude Head Over Heels_bg.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/243/HighAltitude_Head_Over_Heels/image.png"
+	},
+	{
+		"ship": "Bolzano",
+		"skin": "Default",
+		"filename": "Bolzano_Default.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/560/Default/image.nobg.png"
+	},
+	{
+		"ship": "Bolzano",
+		"skin": "Default",
+		"filename": "Bolzano_Default_bg.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/560/Default/image.png"
+	},
+	{
+		"ship": "Bolzano",
+		"skin": "A Flutter in the Moment",
+		"filename": "Bolzano_A Flutter in the Moment.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/560/A_Flutter_in_the_Moment/image.nobg.png"
+	},
+	{
+		"ship": "Bolzano",
+		"skin": "A Flutter in the Moment",
+		"filename": "Bolzano_A Flutter in the Moment_bg.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/560/A_Flutter_in_the_Moment/image.png"
+	},
+
+	{
+		"ship": "Brünhilde",
+		"skin": "Default",
+		"filename": "Brünhilde_Default.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/566/Default/image.png"
+	},
+	{
+		"ship": "Brünhilde",
+		"skin": "Grain-Seizing Grani",
+		"filename": "Brünhilde_Grain-Seizing Grani.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/566/GrainSeizing_Grani/image.nobg.png"
+	},
+	{
+		"ship": "Brünhilde",
+		"skin": "Grain-Seizing Grani",
+		"filename": "Brünhilde_Grain-Seizing Grani_bg.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/566/GrainSeizing_Grani/image.png"
+	},
+	{
+		"ship": "Charles Ausburne",
+		"skin": "Retrofit",
+		"filename": "Charles Ausburne_Retrofit.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/013/Retrofit/image.png"
+	},
+	
+	{
+		"ship": "Emanuele Pessagno",
+		"skin": "Default",
+		"filename": "Emanuele Pessagno_Default.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/563/Default/image.nobg.png"
+	},
+	{
+		"ship": "Emanuele Pessagno",
+		"skin": "Default",
+		"filename": "Emanuele Pessagno_Default_bg.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/563/Default/image.png"
+	},
+	{
+		"ship": "Emanuele Pessagno",
+		"skin": "Backstage Blunders",
+		"filename": "Emanuele Pessagno_Backstage Blunders.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/563/Backstage_Blunders/image.nobg.png"
+	},
+	{
+		"ship": "Emanuele Pessagno",
+		"skin": "Backstage Blunders",
+		"filename": "Emanuele Pessagno_Backstage Blunders_bg.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/563/Backstage_Blunders/image.png"
+	},
+	{
+		"ship": "Essex",
+		"skin": "Detective Essex",
+		"filename": "Essex_Detective Essex.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/357/Detective_Essex/image.png"
+	},
+	{
+		"ship": "Giuseppe Garibaldi",
+		"skin": "Default",
+		"filename": "Giuseppe Garibaldi_Default.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/559/Default/image.nobg.png"
+	},
+	{
+		"ship": "Giuseppe Garibaldi",
+		"skin": "Default",
+		"filename": "Giuseppe Garibaldi_Default_bg.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/559/Default/image.png"
+	},
+	{
+		"ship": "Giuseppe Garibaldi",
+		"skin": "Noble Ivory Plumes",
+		"filename": "Giuseppe Garibaldi_Noble Ivory Plumes.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/559/Noble_Ivory_Plumes/image.nobg.png"
+	},
+	{
+		"ship": "Giuseppe Garibaldi",
+		"skin": "Noble Ivory Plumes",
+		"filename": "Giuseppe Garibaldi_Noble Ivory Plumes_bg.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/559/Noble_Ivory_Plumes/image.png"
+	},
+	
+	{
+		"ship": "Hornet",
+		"skin": "Cheering Justice!",
+		"filename": "Hornet_Cheering Justice!.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/078/Cheering_Justice/image.nobg.png"
+	},
+	{
+		"ship": "Hornet",
+		"skin": "Cheering Justice!",
+		"filename": "Hornet_Cheering Justice!_bg.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/078/Cheering_Justice/image.png"
+	},
+	{
+		"ship": "Isuzu",
+		"skin": "Charge, My Trusty Steeds!",
+		"filename": "Isuzu_Charge, My Trusty Steeds!.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/183/Charge_My_Trusty_Steeds/image.nobg.png"
+	},
+	{
+		"ship": "Isuzu",
+		"skin": "Charge, My Trusty Steeds!",
+		"filename": "Isuzu_Charge, My Trusty Steeds!_bg.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/183/Charge_My_Trusty_Steeds/image.png"
+	},
+	{
+		"ship": "Kirov",
+		"skin": "High Jump Star",
+		"filename": "Kirov_High Jump Star.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/435/High_Jump_Star/image.nobg.png"
+	},
+	{
+		"ship": "Kirov",
+		"skin": "High Jump Star",
+		"filename": "Kirov_High Jump Star_bg.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/435/High_Jump_Star/image.png"
+	},
+	{
+		"ship": "Kitakaze",
+		"skin": "Night of Doves and Magic",
+		"filename": "Kitakaze_Night of Doves and Magic.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/Plan009/Night_of_Doves_and_Magic/image.nobg.png"
+	},
+	{
+		"ship": "Kitakaze",
+		"skin": "Night of Doves and Magic",
+		"filename": "Kitakaze_Night of Doves and Magic_bg.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/Plan009/Night_of_Doves_and_Magic/image.png"
+	},
+	{
+		"ship": "Kumano",
+		"skin": "One Thousand and One Nights' Wishes",
+		"filename": "Kumano_One Thousand and One Nights' Wishes.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/469/One_Thousand_and_One_Nights_Wishes/image.png"
+	},
+	{
+		"ship": "Leonardo da Vinci",
+		"skin": "Default",
+		"filename": "Leonardo da Vinci_Default.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/558/Default/image.nobg.png"
+	},
+	{
+		"ship": "Leonardo da Vinci",
+		"skin": "Default",
+		"filename": "Leonardo da Vinci_Default_bg.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/558/Default/image.png"
+	},
+	{
+		"ship": "Leonardo da Vinci",
+		"skin": "Riverside Pirouette",
+		"filename": "Leonardo da Vinci_Riverside Pirouette.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/558/Riverside_Pirouette/image.nobg.png"
+	},
+	{
+		"ship": "Leonardo da Vinci",
+		"skin": "Riverside Pirouette",
+		"filename": "Leonardo da Vinci_Riverside Pirouette_bg.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/558/Riverside_Pirouette/image.png"
+	},
+	{
+		"ship": "Magdeburg",
+		"skin": "Gone Fishing",
+		"filename": "Magdeburg_Gone Fishing.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/525/Gone_Fishing/image.nobg.png"
+	},
+	{
+		"ship": "Magdeburg",
+		"skin": "Gone Fishing",
+		"filename": "Magdeburg_Gone Fishing_bg.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/525/Gone_Fishing/image.png"
+	},
+	{
+		"ship": "Mikuma",
+		"skin": "Offerings of Floral Grace",
+		"filename": "Mikuma_Offerings of Floral Grace.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/189/Offerings_of_Floral_Grace/image.nobg.png"
+	},
+	{
+		"ship": "Mikuma",
+		"skin": "Offerings of Floral Grace",
+		"filename": "Mikuma_Offerings of Floral Grace_bg.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/189/Offerings_of_Floral_Grace/image.png"
+	},
+	
+	{
+		"ship": "Roma",
+		"skin": "Default",
+		"filename": "Roma_Default.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/561/Default/image.nobg.png"
+	},
+	{
+		"ship": "Roma",
+		"skin": "Default",
+		"filename": "Roma_Default_bg.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/561/Default/image.png"
+	},
+	{
+		"ship": "Roma",
+		"skin": "White Heron of Darkest Night",
+		"filename": "Roma_White Heron of Darkest Night.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/561/White_Heron_of_Darkest_Night/image.nobg.png"
+	},
+	{
+		"ship": "Roma",
+		"skin": "White Heron of Darkest Night",
+		"filename": "Roma_White Heron of Darkest Night_bg.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/561/White_Heron_of_Darkest_Night/image.png"
+	},
+	{
+		"ship": "San Francisco",
+		"skin": "It's Showtime!",
+		"filename": "San Francisco_It's Showtime!.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/512/Its_Showtime/image.nobg.png"
+	},
+	{
+		"ship": "San Francisco",
+		"skin": "It's Showtime!",
+		"filename": "San Francisco_It's Showtime!_bg.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/512/Its_Showtime/image.png"
+	},
+	{
+		"ship": "Taihou",
+		"skin": "Sweet Time After School",
+		"filename": "Taihou_Sweet Time After School.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/230/Sweet_Time_After_School/image.nobg.png"
+	},
+	{
+		"ship": "Taihou",
+		"skin": "Sweet Time After School",
+		"filename": "Taihou_Sweet Time After School_bg.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/230/Sweet_Time_After_School/image.png"
+	},
+	{
+		"ship": "Trento META",
+		"skin": "Default",
+		"filename": "Trento META_Default.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/30013/Default/image.png"
+	},
+	{
+		"ship": "U-96",
+		"skin": "How Heavy Are Those Barbells?",
+		"filename": "U-96_How Heavy Are Those Barbells?.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/467/How_Heavy_Are_Those_Barbells/image.nobg.png"
+	},
+	{
+		"ship": "U-96",
+		"skin": "How Heavy Are Those Barbells?",
+		"filename": "U-96_How Heavy Are Those Barbells?_bg.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/467/How_Heavy_Are_Those_Barbells/image.png"
+	},
+	{
+		"ship": "Weser",
+		"skin": "Wave-Washed Paradise",
+		"filename": "Weser_Wave-Washed Paradise.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/485/WaveWashed_Paradise/image.png"
+	},
+	{
+		"ship": "Z16",
+		"skin": "Default",
+		"filename": "Z16_Default.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/564/Default/image.nobg.png"
+	},
+	{
+		"ship": "Z16",
+		"skin": "Default",
+		"filename": "Z16_Default_bg.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/564/Default/image.png"
+	},
+	{
+		"ship": "Z16",
+		"skin": "Guaranteed Grand Slam!",
+		"filename": "Z16_Guaranteed Grand Slam!.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/564/Guaranteed_Grand_Slam/image.nobg.png"
+	},
+	{
+		"ship": "Z16",
+		"skin": "Guaranteed Grand Slam!",
+		"filename": "Z16_Guaranteed Grand Slam!_bg.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/564/Guaranteed_Grand_Slam/image.png"
+	},
+	{
+		"ship": "Z23",
+		"skin": "Fries, and smiles!",
+		"filename": "Z23_Fries, and smiles!.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/236/Fries_and_smiles/image.png"
+	},
+	{
+		"ship": "Z24",
+		"skin": "The Devil on the Court",
+		"filename": "Z24_The Devil on the Court.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/487/The_Devil_on_the_Court/image.nobg.png"
+	},
+	{
+		"ship": "Z24",
+		"skin": "The Devil on the Court",
+		"filename": "Z24_The Devil on the Court_bg.png",
+		"url": "https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/images/skins/487/The_Devil_on_the_Court/image.png"
 	}
 ]

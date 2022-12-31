@@ -1,0 +1,7 @@
+# Require Pip Install
+# first install XXTEA
+pip install xxtea-py
+
+
+# then install CFFI
+pip install cffi
